@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T10:11:16.518Z",
+  "generated": "2026-11-07T10:48:19.335Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -10,7 +10,7 @@
   ],
   "total": 62,
   "span": {
-    "first": null,
+    "first": "2026-11-07T10:46:54.718Z",
     "days": 1
   },
   "ranges": {
@@ -18,23 +18,180 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-06T10:11:16.518Z",
-      "to": "2026-11-07T10:11:16.518Z",
+      "from": "2026-11-06T10:48:19.335Z",
+      "to": "2026-11-07T10:48:19.335Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 0,
-        "visitors": 0,
+        "views": 5,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 0,
-        "days": 0,
-        "medianExercisesPerVisit": null,
-        "medianSecs": null,
+        "exercisesSeen": 5,
+        "days": 1,
+        "medianExercisesPerVisit": 5,
+        "medianSecs": 2,
         "another": 0,
-        "picked": 0
+        "picked": 4
       },
-      "series": [],
-      "exercises": [],
+      "series": [
+        {
+          "t": "2026-11-06T11:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T12:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T13:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T14:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T15:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T18:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T20:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-06T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T01:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T05:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T06:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T07:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T08:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T09:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-07T10:00:00.000Z",
+          "views": 5,
+          "visitors": 1
+        }
+      ],
+      "exercises": [
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 42,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 58,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        }
+      ],
       "readDepth": [
         {
           "key": "1",
@@ -50,7 +207,7 @@
         },
         {
           "key": "4–5",
-          "n": 0
+          "n": 1
         },
         {
           "key": "6–10",
@@ -61,15 +218,59 @@
           "n": 0
         }
       ],
-      "entries": [],
-      "moves": [],
-      "sources": [],
-      "referrers": [],
+      "entries": [
+        {
+          "key": "/",
+          "n": 1
+        }
+      ],
+      "moves": [
+        {
+          "key": "list",
+          "n": 4
+        }
+      ],
+      "sources": [
+        {
+          "key": "internal",
+          "n": 4
+        },
+        {
+          "key": "direct",
+          "n": 1
+        }
+      ],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 4
+        }
+      ],
       "campaigns": [],
-      "countries": [],
-      "cities": [],
-      "devices": [],
-      "browsers": [],
+      "countries": [
+        {
+          "key": "US",
+          "n": 5
+        }
+      ],
+      "cities": [
+        {
+          "key": "Miami, Florida",
+          "n": 5
+        }
+      ],
+      "devices": [
+        {
+          "key": "tablet",
+          "n": 5
+        }
+      ],
+      "browsers": [
+        {
+          "key": "Safari",
+          "n": 5
+        }
+      ],
       "signupsBySource": [],
       "signupsByEntry": [],
       "links": []
@@ -78,23 +279,65 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-10-31T10:11:16.518Z",
-      "to": "2026-11-07T10:11:16.518Z",
+      "from": "2026-10-31T10:48:19.335Z",
+      "to": "2026-11-07T10:48:19.335Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 0,
-        "visitors": 0,
+        "views": 5,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 0,
-        "days": 0,
-        "medianExercisesPerVisit": null,
-        "medianSecs": null,
+        "exercisesSeen": 5,
+        "days": 1,
+        "medianExercisesPerVisit": 5,
+        "medianSecs": 2,
         "another": 0,
-        "picked": 0
+        "picked": 4
       },
-      "series": [],
-      "exercises": [],
+      "series": [
+        {
+          "d": "2026-11-07",
+          "views": 5,
+          "visitors": 1
+        }
+      ],
+      "exercises": [
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 42,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 58,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        }
+      ],
       "readDepth": [
         {
           "key": "1",
@@ -110,7 +353,7 @@
         },
         {
           "key": "4–5",
-          "n": 0
+          "n": 1
         },
         {
           "key": "6–10",
@@ -121,15 +364,59 @@
           "n": 0
         }
       ],
-      "entries": [],
-      "moves": [],
-      "sources": [],
-      "referrers": [],
+      "entries": [
+        {
+          "key": "/",
+          "n": 1
+        }
+      ],
+      "moves": [
+        {
+          "key": "list",
+          "n": 4
+        }
+      ],
+      "sources": [
+        {
+          "key": "internal",
+          "n": 4
+        },
+        {
+          "key": "direct",
+          "n": 1
+        }
+      ],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 4
+        }
+      ],
       "campaigns": [],
-      "countries": [],
-      "cities": [],
-      "devices": [],
-      "browsers": [],
+      "countries": [
+        {
+          "key": "US",
+          "n": 5
+        }
+      ],
+      "cities": [
+        {
+          "key": "Miami, Florida",
+          "n": 5
+        }
+      ],
+      "devices": [
+        {
+          "key": "tablet",
+          "n": 5
+        }
+      ],
+      "browsers": [
+        {
+          "key": "Safari",
+          "n": 5
+        }
+      ],
       "signupsBySource": [],
       "signupsByEntry": [],
       "links": []
@@ -138,23 +425,65 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-08T10:11:16.518Z",
-      "to": "2026-11-07T10:11:16.518Z",
+      "from": "2026-10-08T10:48:19.335Z",
+      "to": "2026-11-07T10:48:19.335Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 0,
-        "visitors": 0,
+        "views": 5,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 0,
-        "days": 0,
-        "medianExercisesPerVisit": null,
-        "medianSecs": null,
+        "exercisesSeen": 5,
+        "days": 1,
+        "medianExercisesPerVisit": 5,
+        "medianSecs": 2,
         "another": 0,
-        "picked": 0
+        "picked": 4
       },
-      "series": [],
-      "exercises": [],
+      "series": [
+        {
+          "d": "2026-11-07",
+          "views": 5,
+          "visitors": 1
+        }
+      ],
+      "exercises": [
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 42,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 58,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        }
+      ],
       "readDepth": [
         {
           "key": "1",
@@ -170,7 +499,7 @@
         },
         {
           "key": "4–5",
-          "n": 0
+          "n": 1
         },
         {
           "key": "6–10",
@@ -181,15 +510,59 @@
           "n": 0
         }
       ],
-      "entries": [],
-      "moves": [],
-      "sources": [],
-      "referrers": [],
+      "entries": [
+        {
+          "key": "/",
+          "n": 1
+        }
+      ],
+      "moves": [
+        {
+          "key": "list",
+          "n": 4
+        }
+      ],
+      "sources": [
+        {
+          "key": "internal",
+          "n": 4
+        },
+        {
+          "key": "direct",
+          "n": 1
+        }
+      ],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 4
+        }
+      ],
       "campaigns": [],
-      "countries": [],
-      "cities": [],
-      "devices": [],
-      "browsers": [],
+      "countries": [
+        {
+          "key": "US",
+          "n": 5
+        }
+      ],
+      "cities": [
+        {
+          "key": "Miami, Florida",
+          "n": 5
+        }
+      ],
+      "devices": [
+        {
+          "key": "tablet",
+          "n": 5
+        }
+      ],
+      "browsers": [
+        {
+          "key": "Safari",
+          "n": 5
+        }
+      ],
       "signupsBySource": [],
       "signupsByEntry": [],
       "links": []
@@ -198,23 +571,65 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-07T10:11:16.518Z",
-      "to": "2026-11-07T10:11:16.518Z",
+      "from": "2025-11-07T10:48:19.335Z",
+      "to": "2026-11-07T10:48:19.335Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 0,
-        "visitors": 0,
+        "views": 5,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 0,
-        "days": 0,
-        "medianExercisesPerVisit": null,
-        "medianSecs": null,
+        "exercisesSeen": 5,
+        "days": 1,
+        "medianExercisesPerVisit": 5,
+        "medianSecs": 2,
         "another": 0,
-        "picked": 0
+        "picked": 4
       },
-      "series": [],
-      "exercises": [],
+      "series": [
+        {
+          "d": "2026-11-07",
+          "views": 5,
+          "visitors": 1
+        }
+      ],
+      "exercises": [
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 42,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 58,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        }
+      ],
       "readDepth": [
         {
           "key": "1",
@@ -230,7 +645,7 @@
         },
         {
           "key": "4–5",
-          "n": 0
+          "n": 1
         },
         {
           "key": "6–10",
@@ -241,15 +656,59 @@
           "n": 0
         }
       ],
-      "entries": [],
-      "moves": [],
-      "sources": [],
-      "referrers": [],
+      "entries": [
+        {
+          "key": "/",
+          "n": 1
+        }
+      ],
+      "moves": [
+        {
+          "key": "list",
+          "n": 4
+        }
+      ],
+      "sources": [
+        {
+          "key": "internal",
+          "n": 4
+        },
+        {
+          "key": "direct",
+          "n": 1
+        }
+      ],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 4
+        }
+      ],
       "campaigns": [],
-      "countries": [],
-      "cities": [],
-      "devices": [],
-      "browsers": [],
+      "countries": [
+        {
+          "key": "US",
+          "n": 5
+        }
+      ],
+      "cities": [
+        {
+          "key": "Miami, Florida",
+          "n": 5
+        }
+      ],
+      "devices": [
+        {
+          "key": "tablet",
+          "n": 5
+        }
+      ],
+      "browsers": [
+        {
+          "key": "Safari",
+          "n": 5
+        }
+      ],
       "signupsBySource": [],
       "signupsByEntry": [],
       "links": []
@@ -258,23 +717,65 @@
       "key": "all",
       "label": "All time",
       "short": "All",
-      "from": null,
-      "to": "2026-11-07T10:11:16.518Z",
+      "from": "2026-11-07T10:46:54.718Z",
+      "to": "2026-11-07T10:48:19.335Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 0,
-        "visitors": 0,
+        "views": 5,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 0,
-        "days": 0,
-        "medianExercisesPerVisit": null,
-        "medianSecs": null,
+        "exercisesSeen": 5,
+        "days": 1,
+        "medianExercisesPerVisit": 5,
+        "medianSecs": 2,
         "another": 0,
-        "picked": 0
+        "picked": 4
       },
-      "series": [],
-      "exercises": [],
+      "series": [
+        {
+          "d": "2026-11-07",
+          "views": 5,
+          "visitors": 1
+        }
+      ],
+      "exercises": [
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 42,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 58,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        }
+      ],
       "readDepth": [
         {
           "key": "1",
@@ -290,7 +791,7 @@
         },
         {
           "key": "4–5",
-          "n": 0
+          "n": 1
         },
         {
           "key": "6–10",
@@ -301,15 +802,59 @@
           "n": 0
         }
       ],
-      "entries": [],
-      "moves": [],
-      "sources": [],
-      "referrers": [],
+      "entries": [
+        {
+          "key": "/",
+          "n": 1
+        }
+      ],
+      "moves": [
+        {
+          "key": "list",
+          "n": 4
+        }
+      ],
+      "sources": [
+        {
+          "key": "internal",
+          "n": 4
+        },
+        {
+          "key": "direct",
+          "n": 1
+        }
+      ],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 4
+        }
+      ],
       "campaigns": [],
-      "countries": [],
-      "cities": [],
-      "devices": [],
-      "browsers": [],
+      "countries": [
+        {
+          "key": "US",
+          "n": 5
+        }
+      ],
+      "cities": [
+        {
+          "key": "Miami, Florida",
+          "n": 5
+        }
+      ],
+      "devices": [
+        {
+          "key": "tablet",
+          "n": 5
+        }
+      ],
+      "browsers": [
+        {
+          "key": "Safari",
+          "n": 5
+        }
+      ],
       "signupsBySource": [],
       "signupsByEntry": [],
       "links": []
