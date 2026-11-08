@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T15:25:25.467Z",
+  "generated": "2026-11-08T23:50:18.599Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,62 +18,22 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-07T15:25:25.467Z",
-      "to": "2026-11-08T15:25:25.467Z",
+      "from": "2026-11-07T23:50:18.599Z",
+      "to": "2026-11-08T23:50:18.599Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 4,
-        "visitors": 3,
+        "views": 1,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 4,
-        "days": 2,
+        "exercisesSeen": 1,
+        "days": 1,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 8,
+        "medianSecs": 3,
         "another": 0,
         "picked": 0
       },
       "series": [
-        {
-          "t": "2026-11-07T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-07T17:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-07T18:00:00.000Z",
-          "views": 2,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-07T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-07T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-07T21:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-07T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-07T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-08T00:00:00.000Z",
           "views": 0,
@@ -153,30 +113,49 @@
           "t": "2026-11-08T15:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-08T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T18:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T20:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-08T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
-        {
-          "key": 2,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 12
-        },
-        {
-          "key": 11,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 1
-        },
-        {
-          "key": 37,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 22
-        },
         {
           "key": 52,
           "n": 1,
@@ -188,11 +167,11 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 1
         },
         {
           "key": "2",
-          "n": 1
+          "n": 0
         },
         {
           "key": "3",
@@ -214,48 +193,40 @@
       "entries": [
         {
           "key": "/",
-          "n": 3
+          "n": 1
         }
       ],
       "moves": [],
       "sources": [
         {
           "key": "direct",
-          "n": 4
+          "n": 1
         }
       ],
       "referrers": [],
       "campaigns": [],
       "countries": [
         {
-          "key": "US",
-          "n": 2
-        },
-        {
           "key": "GB",
-          "n": 2
+          "n": 1
         }
       ],
       "cities": [
         {
-          "key": "Margate, Florida",
-          "n": 2
-        },
-        {
           "key": "London, England",
-          "n": 2
+          "n": 1
         }
       ],
       "devices": [
         {
           "key": "mobile",
-          "n": 4
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Safari",
-          "n": 4
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -266,8 +237,8 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-01T15:25:25.467Z",
-      "to": "2026-11-08T15:25:25.467Z",
+      "from": "2026-11-01T23:50:18.599Z",
+      "to": "2026-11-08T23:50:18.599Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -461,8 +432,8 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-09T15:25:25.467Z",
-      "to": "2026-11-08T15:25:25.467Z",
+      "from": "2026-10-09T23:50:18.599Z",
+      "to": "2026-11-08T23:50:18.599Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -656,8 +627,8 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-08T15:25:25.467Z",
-      "to": "2026-11-08T15:25:25.467Z",
+      "from": "2025-11-08T23:50:18.599Z",
+      "to": "2026-11-08T23:50:18.599Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -852,7 +823,7 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-08T15:25:25.467Z",
+      "to": "2026-11-08T23:50:18.599Z",
       "available": true,
       "granularity": "day",
       "totals": {
