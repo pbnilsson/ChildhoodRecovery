@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T23:50:18.599Z",
+  "generated": "2026-11-09T18:58:26.268Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -11,15 +11,15 @@
   "total": 62,
   "span": {
     "first": "2026-11-07T10:46:54.718Z",
-    "days": 2
+    "days": 3
   },
   "ranges": {
     "24h": {
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-07T23:50:18.599Z",
-      "to": "2026-11-08T23:50:18.599Z",
+      "from": "2026-11-08T18:58:26.268Z",
+      "to": "2026-11-09T18:58:26.268Z",
       "available": true,
       "granularity": "hour",
       "totals": {
@@ -29,106 +29,11 @@
         "exercisesSeen": 1,
         "days": 1,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
+        "medianSecs": 2,
         "another": 0,
         "picked": 0
       },
       "series": [
-        {
-          "t": "2026-11-08T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T02:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T03:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T04:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T05:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T06:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T07:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-08T08:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T09:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T10:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T11:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T12:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T13:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T14:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T15:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T17:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-08T18:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-08T19:00:00.000Z",
           "views": 0,
@@ -153,15 +58,110 @@
           "t": "2026-11-08T23:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-09T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T01:00:00.000Z",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-09T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T05:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T06:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T07:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T08:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T09:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T10:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T11:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T12:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T13:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T14:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T15:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-09T18:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
         {
-          "key": 52,
+          "key": 29,
           "n": 1,
           "visitors": 1,
           "home": 1,
-          "secs": 3
+          "secs": 2
         }
       ],
       "readDepth": [
@@ -207,25 +207,25 @@
       "campaigns": [],
       "countries": [
         {
-          "key": "GB",
+          "key": "SG",
           "n": 1
         }
       ],
       "cities": [
         {
-          "key": "London, England",
+          "key": "Singapore",
           "n": 1
         }
       ],
       "devices": [
         {
-          "key": "mobile",
+          "key": "desktop",
           "n": 1
         }
       ],
       "browsers": [
         {
-          "key": "Safari",
+          "key": "Chrome",
           "n": 1
         }
       ],
@@ -237,17 +237,17 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-01T23:50:18.599Z",
-      "to": "2026-11-08T23:50:18.599Z",
+      "from": "2026-11-02T18:58:26.268Z",
+      "to": "2026-11-09T18:58:26.268Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 9,
-        "visitors": 4,
+        "views": 10,
+        "visitors": 5,
         "signups": 0,
-        "exercisesSeen": 9,
-        "days": 2,
-        "medianExercisesPerVisit": 2,
+        "exercisesSeen": 10,
+        "days": 3,
+        "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
         "picked": 4
@@ -260,6 +260,11 @@
         },
         {
           "d": "2026-11-08",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "d": "2026-11-09",
           "views": 1,
           "visitors": 1
         }
@@ -291,6 +296,13 @@
           "n": 1,
           "visitors": 1,
           "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 29,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
           "secs": 2
         },
         {
@@ -332,7 +344,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 3
         },
         {
           "key": "2",
@@ -358,7 +370,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 4
+          "n": 5
         }
       ],
       "moves": [
@@ -370,7 +382,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 5
+          "n": 6
         },
         {
           "key": "internal",
@@ -392,6 +404,10 @@
         {
           "key": "GB",
           "n": 2
+        },
+        {
+          "key": "SG",
+          "n": 1
         }
       ],
       "cities": [
@@ -406,6 +422,10 @@
         {
           "key": "London, England",
           "n": 2
+        },
+        {
+          "key": "Singapore",
+          "n": 1
         }
       ],
       "devices": [
@@ -416,12 +436,20 @@
         {
           "key": "mobile",
           "n": 4
+        },
+        {
+          "key": "desktop",
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Safari",
           "n": 9
+        },
+        {
+          "key": "Chrome",
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -432,17 +460,17 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-09T23:50:18.599Z",
-      "to": "2026-11-08T23:50:18.599Z",
+      "from": "2026-10-10T18:58:26.268Z",
+      "to": "2026-11-09T18:58:26.268Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 9,
-        "visitors": 4,
+        "views": 10,
+        "visitors": 5,
         "signups": 0,
-        "exercisesSeen": 9,
-        "days": 2,
-        "medianExercisesPerVisit": 2,
+        "exercisesSeen": 10,
+        "days": 3,
+        "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
         "picked": 4
@@ -455,6 +483,11 @@
         },
         {
           "d": "2026-11-08",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "d": "2026-11-09",
           "views": 1,
           "visitors": 1
         }
@@ -486,6 +519,13 @@
           "n": 1,
           "visitors": 1,
           "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 29,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
           "secs": 2
         },
         {
@@ -527,7 +567,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 3
         },
         {
           "key": "2",
@@ -553,7 +593,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 4
+          "n": 5
         }
       ],
       "moves": [
@@ -565,7 +605,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 5
+          "n": 6
         },
         {
           "key": "internal",
@@ -587,6 +627,10 @@
         {
           "key": "GB",
           "n": 2
+        },
+        {
+          "key": "SG",
+          "n": 1
         }
       ],
       "cities": [
@@ -601,6 +645,10 @@
         {
           "key": "London, England",
           "n": 2
+        },
+        {
+          "key": "Singapore",
+          "n": 1
         }
       ],
       "devices": [
@@ -611,12 +659,20 @@
         {
           "key": "mobile",
           "n": 4
+        },
+        {
+          "key": "desktop",
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Safari",
           "n": 9
+        },
+        {
+          "key": "Chrome",
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -627,17 +683,17 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-08T23:50:18.599Z",
-      "to": "2026-11-08T23:50:18.599Z",
+      "from": "2025-11-09T18:58:26.268Z",
+      "to": "2026-11-09T18:58:26.268Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 9,
-        "visitors": 4,
+        "views": 10,
+        "visitors": 5,
         "signups": 0,
-        "exercisesSeen": 9,
-        "days": 2,
-        "medianExercisesPerVisit": 2,
+        "exercisesSeen": 10,
+        "days": 3,
+        "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
         "picked": 4
@@ -650,6 +706,11 @@
         },
         {
           "d": "2026-11-08",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "d": "2026-11-09",
           "views": 1,
           "visitors": 1
         }
@@ -681,6 +742,13 @@
           "n": 1,
           "visitors": 1,
           "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 29,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
           "secs": 2
         },
         {
@@ -722,7 +790,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 3
         },
         {
           "key": "2",
@@ -748,7 +816,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 4
+          "n": 5
         }
       ],
       "moves": [
@@ -760,7 +828,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 5
+          "n": 6
         },
         {
           "key": "internal",
@@ -782,6 +850,10 @@
         {
           "key": "GB",
           "n": 2
+        },
+        {
+          "key": "SG",
+          "n": 1
         }
       ],
       "cities": [
@@ -796,6 +868,10 @@
         {
           "key": "London, England",
           "n": 2
+        },
+        {
+          "key": "Singapore",
+          "n": 1
         }
       ],
       "devices": [
@@ -806,12 +882,20 @@
         {
           "key": "mobile",
           "n": 4
+        },
+        {
+          "key": "desktop",
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Safari",
           "n": 9
+        },
+        {
+          "key": "Chrome",
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -823,16 +907,16 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-08T23:50:18.599Z",
+      "to": "2026-11-09T18:58:26.268Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 9,
-        "visitors": 4,
+        "views": 10,
+        "visitors": 5,
         "signups": 0,
-        "exercisesSeen": 9,
-        "days": 2,
-        "medianExercisesPerVisit": 2,
+        "exercisesSeen": 10,
+        "days": 3,
+        "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
         "picked": 4
@@ -845,6 +929,11 @@
         },
         {
           "d": "2026-11-08",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "d": "2026-11-09",
           "views": 1,
           "visitors": 1
         }
@@ -876,6 +965,13 @@
           "n": 1,
           "visitors": 1,
           "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 29,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
           "secs": 2
         },
         {
@@ -917,7 +1013,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 3
         },
         {
           "key": "2",
@@ -943,7 +1039,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 4
+          "n": 5
         }
       ],
       "moves": [
@@ -955,7 +1051,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 5
+          "n": 6
         },
         {
           "key": "internal",
@@ -977,6 +1073,10 @@
         {
           "key": "GB",
           "n": 2
+        },
+        {
+          "key": "SG",
+          "n": 1
         }
       ],
       "cities": [
@@ -991,6 +1091,10 @@
         {
           "key": "London, England",
           "n": 2
+        },
+        {
+          "key": "Singapore",
+          "n": 1
         }
       ],
       "devices": [
@@ -1001,12 +1105,20 @@
         {
           "key": "mobile",
           "n": 4
+        },
+        {
+          "key": "desktop",
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Safari",
           "n": 9
+        },
+        {
+          "key": "Chrome",
+          "n": 1
         }
       ],
       "signupsBySource": [],
