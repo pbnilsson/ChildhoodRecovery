@@ -129,6 +129,15 @@
     true
   );
 
+  // ---- the share button under the poem (js/share.js) -----------------------
+  // Logged as a click whose target ends in #share-<how>: menu-image,
+  // menu-link, menu-cancel, copy, or copy-failed. The exercise rides along
+  // in the usual x field.
+  document.addEventListener("erc:share", function (e) {
+    var how = e && e.detail && e.detail.how ? String(e.detail.how) : "unknown";
+    send({ k: "click", p: PATH, t: window.location.href.split(/[?#]/)[0] + "#share-" + how });
+  });
+
   // ---- book signups (the Mailchimp form in the footer) ---------------------
   document.addEventListener(
     "submit",

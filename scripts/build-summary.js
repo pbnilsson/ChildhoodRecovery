@@ -187,9 +187,20 @@ function summarize(rows, granularity) {
     ex: exOf(r),
   }));
 
+  // ---- sharing (the button under the poem) and the Instagram link ----------
+  // share.js reports each press as a click ending in #share-<how>.
+  const SHARE_RE = /#share-([a-z-]+)$/;
+  const shareRows = clicks.filter((r) => SHARE_RE.test(r.target || ""));
+  const shareHow = (r) => (r.target.match(SHARE_RE) || [])[1];
+  const shared = shareRows.filter((r) => /^(menu-image|menu-link|copy)$/.test(shareHow(r)));
+  const shareWays = tally(shareRows, shareHow);
+  const sharedExercises = tally(shared, exOf, 15);
+  const IG = /instagram\.com\/childhoodrecoveryexercises/i;
+  const igClicks = clicks.filter((r) => IG.test(r.target || ""));
+
   // ---- links off the site ---------------------------------------------------
   const OURS = /^https?:\/\/(www\.)?(exercisesfortherecoveryofchildhood\.com|pbnilsson\.github\.io)/i;
-  const followed = clicks.filter((r) => r.target && !OURS.test(r.target));
+  const followed = clicks.filter((r) => r.target && !OURS.test(r.target) && !IG.test(r.target));
 
   // ---- assemble ------------------------------------------------------------
   const dayCount = granularity === "hour"
@@ -208,6 +219,9 @@ function summarize(rows, granularity) {
       medianSecs: median(ends.map((r) => r.secs)),
       another: (moves.find((m) => m.key === "another") || {}).n || 0,
       picked: (moves.find((m) => m.key === "list") || {}).n || 0,
+      shares: shared.length,
+      sharePresses: shareRows.length,
+      instagram: igClicks.length,
     },
     series,
     exercises,
@@ -224,6 +238,9 @@ function summarize(rows, granularity) {
     signupsBySource: tally(signupDetail, (r) => r.source, 10),
     signupsByEntry: tally(signupDetail, (r) => r.entry, 10),
     links: tally(followed, (r) => r.target, 25),
+    shareWays,
+    sharedExercises,
+    instagramFrom: tally(igClicks, exOf, 10),
   };
 }
 

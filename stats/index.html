@@ -577,6 +577,31 @@
         "</div></div></section>";
     }
 
+    if (t.sharePresses || t.instagram) {
+      var WAYS = {
+        "menu-image": "Phone menu + image",
+        "menu-link": "Phone menu, link",
+        "menu-cancel": "Menu, cancelled",
+        "copy": "Copied link",
+        "copy-failed": "Copy failed"
+      };
+      html += "<section><h2>Sharing and Instagram</h2>" +
+        '<p class="note"><b>' + (t.shares || 0) + "</b> " + ((t.shares === 1) ? "share" : "shares") +
+        " from the button under the poem" +
+        (t.sharePresses > t.shares ? " (" + t.sharePresses + " presses, counting cancels)" : "") +
+        ", and <b>" + (t.instagram || 0) + "</b> " + (t.instagram === 1 ? "click" : "clicks") +
+        " on the Instagram link. The phone menu can’t say which app they picked.</p>" +
+        '<div class="pair"><div>' +
+        bars(s.sharedExercises || [], {
+          head: "Exercise shared",
+          label: function (it) { return exLabel(it.key); },
+          title: function (it) { return exName(it.key); }
+        }) +
+        "</div><div>" +
+        bars(s.shareWays || [], { head: "How", alt: true, label: function (it) { return esc(WAYS[it.key] || it.key); } }) +
+        "</div></div></section>";
+    }
+
     if (s.links && s.links.length) {
       html += "<section><h2>What they followed</h2>" +
         '<p class="note">Links clicked that led off the site.</p>' +
