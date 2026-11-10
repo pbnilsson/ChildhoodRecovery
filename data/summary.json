@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T02:49:40.295Z",
+  "generated": "2026-11-10T16:29:47.338Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -11,99 +11,32 @@
   "total": 62,
   "span": {
     "first": "2026-11-07T10:46:54.718Z",
-    "days": 3
+    "days": 4
   },
   "ranges": {
     "24h": {
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-09T02:49:40.295Z",
-      "to": "2026-11-10T02:49:40.295Z",
+      "from": "2026-11-09T16:29:47.338Z",
+      "to": "2026-11-10T16:29:47.338Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 1,
-        "visitors": 1,
+        "views": 3,
+        "visitors": 3,
         "signups": 0,
-        "exercisesSeen": 1,
-        "days": 1,
+        "exercisesSeen": 3,
+        "days": 2,
         "medianExercisesPerVisit": 1,
         "medianSecs": 10,
         "another": 0,
-        "picked": 0
+        "picked": 0,
+        "shares": 0,
+        "sharePresses": 1,
+        "instagram": 1
       },
       "series": [
-        {
-          "t": "2026-11-09T03:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T04:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T05:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T06:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T07:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T08:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T09:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T10:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T11:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T12:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T13:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T14:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T15:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-09T17:00:00.000Z",
           "views": 0,
@@ -153,21 +86,105 @@
           "t": "2026-11-10T02:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-10T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T05:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T06:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T07:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T08:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T09:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T10:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T11:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T12:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T13:00:00.000Z",
+          "views": 2,
+          "visitors": 2
+        },
+        {
+          "t": "2026-11-10T14:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T15:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
+        {
+          "key": 23,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 31
+        },
         {
           "key": 32,
           "n": 1,
           "visitors": 1,
           "home": 1,
           "secs": 10
+        },
+        {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 9
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 1
+          "n": 3
         },
         {
           "key": "2",
@@ -193,7 +210,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 1
+          "n": 3
         }
       ],
       "moves": [],
@@ -201,11 +218,23 @@
         {
           "key": "referral",
           "n": 1
+        },
+        {
+          "key": "social",
+          "n": 1
+        },
+        {
+          "key": "direct",
+          "n": 1
         }
       ],
       "referrers": [
         {
           "key": "peternilsson.us",
+          "n": 1
+        },
+        {
+          "key": "facebook.com",
           "n": 1
         }
       ],
@@ -213,6 +242,10 @@
       "countries": [
         {
           "key": "US",
+          "n": 2
+        },
+        {
+          "key": "IE",
           "n": 1
         }
       ],
@@ -220,42 +253,74 @@
         {
           "key": "Ashburn, Virginia",
           "n": 1
+        },
+        {
+          "key": "Clonee, Leinster",
+          "n": 1
+        },
+        {
+          "key": "Fort Wayne, Indiana",
+          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
+          "n": 2
+        },
+        {
+          "key": "mobile",
           "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Chrome",
+          "n": 2
+        },
+        {
+          "key": "Safari",
           "n": 1
         }
       ],
       "signupsBySource": [],
       "signupsByEntry": [],
-      "links": []
+      "links": [],
+      "shareWays": [
+        {
+          "key": "menu-cancel",
+          "n": 1
+        }
+      ],
+      "sharedExercises": [],
+      "instagramFrom": [
+        {
+          "key": 33,
+          "n": 1
+        }
+      ]
     },
     "week": {
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-03T02:49:40.295Z",
-      "to": "2026-11-10T02:49:40.295Z",
+      "from": "2026-11-03T16:29:47.338Z",
+      "to": "2026-11-10T16:29:47.338Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 11,
-        "visitors": 6,
+        "views": 13,
+        "visitors": 8,
         "signups": 0,
-        "exercisesSeen": 11,
-        "days": 3,
+        "exercisesSeen": 13,
+        "days": 4,
         "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
-        "picked": 4
+        "picked": 4,
+        "shares": 0,
+        "sharePresses": 1,
+        "instagram": 1
       },
       "series": [
         {
@@ -270,6 +335,11 @@
         },
         {
           "d": "2026-11-09",
+          "views": 2,
+          "visitors": 2
+        },
+        {
+          "d": "2026-11-10",
           "views": 2,
           "visitors": 2
         }
@@ -304,6 +374,13 @@
           "secs": 2
         },
         {
+          "key": 23,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 31
+        },
+        {
           "key": 29,
           "n": 1,
           "visitors": 1,
@@ -316,6 +393,13 @@
           "visitors": 1,
           "home": 1,
           "secs": 10
+        },
+        {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 9
         },
         {
           "key": 37,
@@ -356,7 +440,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 4
+          "n": 6
         },
         {
           "key": "2",
@@ -382,7 +466,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 6
+          "n": 8
         }
       ],
       "moves": [
@@ -394,7 +478,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 6
+          "n": 7
         },
         {
           "key": "internal",
@@ -402,6 +486,10 @@
         },
         {
           "key": "referral",
+          "n": 1
+        },
+        {
+          "key": "social",
           "n": 1
         }
       ],
@@ -413,13 +501,17 @@
         {
           "key": "peternilsson.us",
           "n": 1
+        },
+        {
+          "key": "facebook.com",
+          "n": 1
         }
       ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
-          "n": 8
+          "n": 9
         },
         {
           "key": "GB",
@@ -427,6 +519,10 @@
         },
         {
           "key": "SG",
+          "n": 1
+        },
+        {
+          "key": "IE",
           "n": 1
         }
       ],
@@ -450,6 +546,14 @@
         {
           "key": "Ashburn, Virginia",
           "n": 1
+        },
+        {
+          "key": "Clonee, Leinster",
+          "n": 1
+        },
+        {
+          "key": "Fort Wayne, Indiana",
+          "n": 1
         }
       ],
       "devices": [
@@ -459,45 +563,61 @@
         },
         {
           "key": "mobile",
-          "n": 4
+          "n": 5
         },
         {
           "key": "desktop",
-          "n": 2
+          "n": 3
         }
       ],
       "browsers": [
         {
           "key": "Safari",
-          "n": 9
+          "n": 10
         },
         {
           "key": "Chrome",
-          "n": 2
+          "n": 3
         }
       ],
       "signupsBySource": [],
       "signupsByEntry": [],
-      "links": []
+      "links": [],
+      "shareWays": [
+        {
+          "key": "menu-cancel",
+          "n": 1
+        }
+      ],
+      "sharedExercises": [],
+      "instagramFrom": [
+        {
+          "key": 33,
+          "n": 1
+        }
+      ]
     },
     "month": {
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-11T02:49:40.295Z",
-      "to": "2026-11-10T02:49:40.295Z",
+      "from": "2026-10-11T16:29:47.338Z",
+      "to": "2026-11-10T16:29:47.338Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 11,
-        "visitors": 6,
+        "views": 13,
+        "visitors": 8,
         "signups": 0,
-        "exercisesSeen": 11,
-        "days": 3,
+        "exercisesSeen": 13,
+        "days": 4,
         "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
-        "picked": 4
+        "picked": 4,
+        "shares": 0,
+        "sharePresses": 1,
+        "instagram": 1
       },
       "series": [
         {
@@ -512,6 +632,11 @@
         },
         {
           "d": "2026-11-09",
+          "views": 2,
+          "visitors": 2
+        },
+        {
+          "d": "2026-11-10",
           "views": 2,
           "visitors": 2
         }
@@ -546,6 +671,13 @@
           "secs": 2
         },
         {
+          "key": 23,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 31
+        },
+        {
           "key": 29,
           "n": 1,
           "visitors": 1,
@@ -558,6 +690,13 @@
           "visitors": 1,
           "home": 1,
           "secs": 10
+        },
+        {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 9
         },
         {
           "key": 37,
@@ -598,7 +737,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 4
+          "n": 6
         },
         {
           "key": "2",
@@ -624,7 +763,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 6
+          "n": 8
         }
       ],
       "moves": [
@@ -636,7 +775,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 6
+          "n": 7
         },
         {
           "key": "internal",
@@ -644,6 +783,10 @@
         },
         {
           "key": "referral",
+          "n": 1
+        },
+        {
+          "key": "social",
           "n": 1
         }
       ],
@@ -655,13 +798,17 @@
         {
           "key": "peternilsson.us",
           "n": 1
+        },
+        {
+          "key": "facebook.com",
+          "n": 1
         }
       ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
-          "n": 8
+          "n": 9
         },
         {
           "key": "GB",
@@ -669,6 +816,10 @@
         },
         {
           "key": "SG",
+          "n": 1
+        },
+        {
+          "key": "IE",
           "n": 1
         }
       ],
@@ -692,6 +843,14 @@
         {
           "key": "Ashburn, Virginia",
           "n": 1
+        },
+        {
+          "key": "Clonee, Leinster",
+          "n": 1
+        },
+        {
+          "key": "Fort Wayne, Indiana",
+          "n": 1
         }
       ],
       "devices": [
@@ -701,45 +860,61 @@
         },
         {
           "key": "mobile",
-          "n": 4
+          "n": 5
         },
         {
           "key": "desktop",
-          "n": 2
+          "n": 3
         }
       ],
       "browsers": [
         {
           "key": "Safari",
-          "n": 9
+          "n": 10
         },
         {
           "key": "Chrome",
-          "n": 2
+          "n": 3
         }
       ],
       "signupsBySource": [],
       "signupsByEntry": [],
-      "links": []
+      "links": [],
+      "shareWays": [
+        {
+          "key": "menu-cancel",
+          "n": 1
+        }
+      ],
+      "sharedExercises": [],
+      "instagramFrom": [
+        {
+          "key": 33,
+          "n": 1
+        }
+      ]
     },
     "year": {
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-10T02:49:40.295Z",
-      "to": "2026-11-10T02:49:40.295Z",
+      "from": "2025-11-10T16:29:47.338Z",
+      "to": "2026-11-10T16:29:47.338Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 11,
-        "visitors": 6,
+        "views": 13,
+        "visitors": 8,
         "signups": 0,
-        "exercisesSeen": 11,
-        "days": 3,
+        "exercisesSeen": 13,
+        "days": 4,
         "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
-        "picked": 4
+        "picked": 4,
+        "shares": 0,
+        "sharePresses": 1,
+        "instagram": 1
       },
       "series": [
         {
@@ -754,6 +929,11 @@
         },
         {
           "d": "2026-11-09",
+          "views": 2,
+          "visitors": 2
+        },
+        {
+          "d": "2026-11-10",
           "views": 2,
           "visitors": 2
         }
@@ -788,6 +968,13 @@
           "secs": 2
         },
         {
+          "key": 23,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 31
+        },
+        {
           "key": 29,
           "n": 1,
           "visitors": 1,
@@ -800,6 +987,13 @@
           "visitors": 1,
           "home": 1,
           "secs": 10
+        },
+        {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 9
         },
         {
           "key": 37,
@@ -840,7 +1034,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 4
+          "n": 6
         },
         {
           "key": "2",
@@ -866,7 +1060,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 6
+          "n": 8
         }
       ],
       "moves": [
@@ -878,7 +1072,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 6
+          "n": 7
         },
         {
           "key": "internal",
@@ -886,6 +1080,10 @@
         },
         {
           "key": "referral",
+          "n": 1
+        },
+        {
+          "key": "social",
           "n": 1
         }
       ],
@@ -897,13 +1095,17 @@
         {
           "key": "peternilsson.us",
           "n": 1
+        },
+        {
+          "key": "facebook.com",
+          "n": 1
         }
       ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
-          "n": 8
+          "n": 9
         },
         {
           "key": "GB",
@@ -911,6 +1113,10 @@
         },
         {
           "key": "SG",
+          "n": 1
+        },
+        {
+          "key": "IE",
           "n": 1
         }
       ],
@@ -934,6 +1140,14 @@
         {
           "key": "Ashburn, Virginia",
           "n": 1
+        },
+        {
+          "key": "Clonee, Leinster",
+          "n": 1
+        },
+        {
+          "key": "Fort Wayne, Indiana",
+          "n": 1
         }
       ],
       "devices": [
@@ -943,45 +1157,61 @@
         },
         {
           "key": "mobile",
-          "n": 4
+          "n": 5
         },
         {
           "key": "desktop",
-          "n": 2
+          "n": 3
         }
       ],
       "browsers": [
         {
           "key": "Safari",
-          "n": 9
+          "n": 10
         },
         {
           "key": "Chrome",
-          "n": 2
+          "n": 3
         }
       ],
       "signupsBySource": [],
       "signupsByEntry": [],
-      "links": []
+      "links": [],
+      "shareWays": [
+        {
+          "key": "menu-cancel",
+          "n": 1
+        }
+      ],
+      "sharedExercises": [],
+      "instagramFrom": [
+        {
+          "key": 33,
+          "n": 1
+        }
+      ]
     },
     "all": {
       "key": "all",
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-10T02:49:40.295Z",
+      "to": "2026-11-10T16:29:47.338Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 11,
-        "visitors": 6,
+        "views": 13,
+        "visitors": 8,
         "signups": 0,
-        "exercisesSeen": 11,
-        "days": 3,
+        "exercisesSeen": 13,
+        "days": 4,
         "medianExercisesPerVisit": 1,
         "medianSecs": 3,
         "another": 0,
-        "picked": 4
+        "picked": 4,
+        "shares": 0,
+        "sharePresses": 1,
+        "instagram": 1
       },
       "series": [
         {
@@ -996,6 +1226,11 @@
         },
         {
           "d": "2026-11-09",
+          "views": 2,
+          "visitors": 2
+        },
+        {
+          "d": "2026-11-10",
           "views": 2,
           "visitors": 2
         }
@@ -1030,6 +1265,13 @@
           "secs": 2
         },
         {
+          "key": 23,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 31
+        },
+        {
           "key": 29,
           "n": 1,
           "visitors": 1,
@@ -1042,6 +1284,13 @@
           "visitors": 1,
           "home": 1,
           "secs": 10
+        },
+        {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 9
         },
         {
           "key": 37,
@@ -1082,7 +1331,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 4
+          "n": 6
         },
         {
           "key": "2",
@@ -1108,7 +1357,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 6
+          "n": 8
         }
       ],
       "moves": [
@@ -1120,7 +1369,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 6
+          "n": 7
         },
         {
           "key": "internal",
@@ -1128,6 +1377,10 @@
         },
         {
           "key": "referral",
+          "n": 1
+        },
+        {
+          "key": "social",
           "n": 1
         }
       ],
@@ -1139,13 +1392,17 @@
         {
           "key": "peternilsson.us",
           "n": 1
+        },
+        {
+          "key": "facebook.com",
+          "n": 1
         }
       ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
-          "n": 8
+          "n": 9
         },
         {
           "key": "GB",
@@ -1153,6 +1410,10 @@
         },
         {
           "key": "SG",
+          "n": 1
+        },
+        {
+          "key": "IE",
           "n": 1
         }
       ],
@@ -1176,6 +1437,14 @@
         {
           "key": "Ashburn, Virginia",
           "n": 1
+        },
+        {
+          "key": "Clonee, Leinster",
+          "n": 1
+        },
+        {
+          "key": "Fort Wayne, Indiana",
+          "n": 1
         }
       ],
       "devices": [
@@ -1185,26 +1454,39 @@
         },
         {
           "key": "mobile",
-          "n": 4
+          "n": 5
         },
         {
           "key": "desktop",
-          "n": 2
+          "n": 3
         }
       ],
       "browsers": [
         {
           "key": "Safari",
-          "n": 9
+          "n": 10
         },
         {
           "key": "Chrome",
-          "n": 2
+          "n": 3
         }
       ],
       "signupsBySource": [],
       "signupsByEntry": [],
-      "links": []
+      "links": [],
+      "shareWays": [
+        {
+          "key": "menu-cancel",
+          "n": 1
+        }
+      ],
+      "sharedExercises": [],
+      "instagramFrom": [
+        {
+          "key": 33,
+          "n": 1
+        }
+      ]
     }
   }
 }
