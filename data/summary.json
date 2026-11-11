@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:29:47.338Z",
+  "generated": "2026-11-11T00:44:33.127Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,65 +18,25 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-09T16:29:47.338Z",
-      "to": "2026-11-10T16:29:47.338Z",
+      "from": "2026-11-10T00:44:33.127Z",
+      "to": "2026-11-11T00:44:33.127Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 3,
+        "views": 53,
         "visitors": 3,
         "signups": 0,
-        "exercisesSeen": 3,
-        "days": 2,
+        "exercisesSeen": 47,
+        "days": 1,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 10,
-        "another": 0,
-        "picked": 0,
+        "medianSecs": 5,
+        "another": 31,
+        "picked": 19,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
       },
       "series": [
-        {
-          "t": "2026-11-09T17:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T18:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-09T22:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-09T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-10T01:00:00.000Z",
           "views": 0,
@@ -156,22 +116,279 @@
           "t": "2026-11-10T16:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-10T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T18:00:00.000Z",
+          "views": 51,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-10T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T20:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-10T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
         {
-          "key": 23,
-          "n": 1,
+          "key": 3,
+          "n": 2,
           "visitors": 1,
-          "home": 1,
-          "secs": 31
+          "home": 0,
+          "secs": 11
         },
         {
-          "key": 32,
-          "n": 1,
+          "key": 23,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 18
+        },
+        {
+          "key": 24,
+          "n": 2,
           "visitors": 1,
           "home": 1,
-          "secs": 10
+          "secs": 83
+        },
+        {
+          "key": 40,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 54,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 60,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 1,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 2,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 4,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 5,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 6,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 7,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 8,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 9,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 10,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 11,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 12,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 13,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 14,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 15,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 16,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 17,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 18,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 15
+        },
+        {
+          "key": 20,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 22,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 25,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 26,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 27,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 28,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 29,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 30,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
         },
         {
           "key": 33,
@@ -179,12 +396,103 @@
           "visitors": 1,
           "home": 1,
           "secs": 9
+        },
+        {
+          "key": 38,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 23
+        },
+        {
+          "key": 41,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 43,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 44,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 45,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 49,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 51,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 52,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 55,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 7
+        },
+        {
+          "key": 62,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 3
+          "n": 2
         },
         {
           "key": "2",
@@ -204,7 +512,7 @@
         },
         {
           "key": "11+",
-          "n": 0
+          "n": 1
         }
       ],
       "entries": [
@@ -213,11 +521,20 @@
           "n": 3
         }
       ],
-      "moves": [],
+      "moves": [
+        {
+          "key": "another",
+          "n": 31
+        },
+        {
+          "key": "list",
+          "n": 19
+        }
+      ],
       "sources": [
         {
-          "key": "referral",
-          "n": 1
+          "key": "internal",
+          "n": 50
         },
         {
           "key": "social",
@@ -226,15 +543,23 @@
         {
           "key": "direct",
           "n": 1
+        },
+        {
+          "key": "referral",
+          "n": 1
         }
       ],
       "referrers": [
         {
-          "key": "peternilsson.us",
-          "n": 1
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 50
         },
         {
           "key": "facebook.com",
+          "n": 1
+        },
+        {
+          "key": "peternilsson.us",
           "n": 1
         }
       ],
@@ -242,7 +567,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 2
+          "n": 52
         },
         {
           "key": "IE",
@@ -251,8 +576,8 @@
       ],
       "cities": [
         {
-          "key": "Ashburn, Virginia",
-          "n": 1
+          "key": "Raleigh, North Carolina",
+          "n": 51
         },
         {
           "key": "Clonee, Leinster",
@@ -266,7 +591,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 2
+          "n": 52
         },
         {
           "key": "mobile",
@@ -275,8 +600,12 @@
       ],
       "browsers": [
         {
+          "key": "Firefox",
+          "n": 51
+        },
+        {
           "key": "Chrome",
-          "n": 2
+          "n": 1
         },
         {
           "key": "Safari",
@@ -304,20 +633,20 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-03T16:29:47.338Z",
-      "to": "2026-11-10T16:29:47.338Z",
+      "from": "2026-11-04T00:44:33.127Z",
+      "to": "2026-11-11T00:44:33.127Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 13,
-        "visitors": 8,
+        "views": 64,
+        "visitors": 9,
         "signups": 0,
-        "exercisesSeen": 13,
+        "exercisesSeen": 51,
         "days": 4,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
-        "another": 0,
-        "picked": 4,
+        "medianSecs": 4,
+        "another": 31,
+        "picked": 23,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -340,52 +669,248 @@
         },
         {
           "d": "2026-11-10",
-          "views": 2,
-          "visitors": 2
+          "views": 53,
+          "visitors": 3
         }
       ],
       "exercises": [
         {
+          "key": 54,
+          "n": 3,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
+        },
+        {
           "key": 2,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 12
+          "secs": 15
+        },
+        {
+          "key": 3,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
         },
         {
           "key": 8,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 0,
-          "secs": 2
+          "secs": 3
         },
         {
           "key": 11,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 1
+          "secs": 2
         },
         {
           "key": 19,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 23,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 18
+        },
+        {
+          "key": 24,
+          "n": 2,
+          "visitors": 1,
+          "home": 1,
+          "secs": 83
+        },
+        {
+          "key": 29,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 7
+        },
+        {
+          "key": 40,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 52,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 5
+        },
+        {
+          "key": 60,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 1,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 4,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 5,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 6,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 7,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 9,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 10,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 12,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 13,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 14,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 15,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 16,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 17,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 18,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 20,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 22,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 25,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 26,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 27,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 28,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": 2
         },
         {
-          "key": 23,
+          "key": 30,
           "n": 1,
           "visitors": 1,
-          "home": 1,
-          "secs": 31
-        },
-        {
-          "key": 29,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
+          "home": 0,
+          "secs": 9
         },
         {
           "key": 32,
@@ -409,6 +934,27 @@
           "secs": 22
         },
         {
+          "key": 38,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 23
+        },
+        {
+          "key": 41,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
           "key": 42,
           "n": 1,
           "visitors": 1,
@@ -416,18 +962,53 @@
           "secs": 8
         },
         {
-          "key": 52,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 3
-        },
-        {
-          "key": 54,
+          "key": 43,
           "n": 1,
           "visitors": 1,
           "home": 0,
-          "secs": 2
+          "secs": 14
+        },
+        {
+          "key": 44,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 45,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 49,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 51,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 55,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
         },
         {
           "key": 58,
@@ -435,6 +1016,20 @@
           "visitors": 1,
           "home": 0,
           "secs": 3
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 7
+        },
+        {
+          "key": 62,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
         }
       ],
       "readDepth": [
@@ -460,33 +1055,37 @@
         },
         {
           "key": "11+",
-          "n": 0
+          "n": 1
         }
       ],
       "entries": [
         {
           "key": "/",
-          "n": 8
+          "n": 9
         }
       ],
       "moves": [
         {
+          "key": "another",
+          "n": 31
+        },
+        {
           "key": "list",
-          "n": 4
+          "n": 23
         }
       ],
       "sources": [
+        {
+          "key": "internal",
+          "n": 54
+        },
         {
           "key": "direct",
           "n": 7
         },
         {
-          "key": "internal",
-          "n": 4
-        },
-        {
           "key": "referral",
-          "n": 1
+          "n": 2
         },
         {
           "key": "social",
@@ -496,11 +1095,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 4
+          "n": 54
         },
         {
           "key": "peternilsson.us",
-          "n": 1
+          "n": 2
         },
         {
           "key": "facebook.com",
@@ -511,7 +1110,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 9
+          "n": 60
         },
         {
           "key": "GB",
@@ -527,6 +1126,10 @@
         }
       ],
       "cities": [
+        {
+          "key": "Raleigh, North Carolina",
+          "n": 51
+        },
         {
           "key": "Miami, Florida",
           "n": 5
@@ -558,19 +1161,23 @@
       ],
       "devices": [
         {
+          "key": "desktop",
+          "n": 54
+        },
+        {
           "key": "tablet",
           "n": 5
         },
         {
           "key": "mobile",
           "n": 5
-        },
-        {
-          "key": "desktop",
-          "n": 3
         }
       ],
       "browsers": [
+        {
+          "key": "Firefox",
+          "n": 51
+        },
         {
           "key": "Safari",
           "n": 10
@@ -601,20 +1208,20 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-11T16:29:47.338Z",
-      "to": "2026-11-10T16:29:47.338Z",
+      "from": "2026-10-12T00:44:33.127Z",
+      "to": "2026-11-11T00:44:33.127Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 13,
-        "visitors": 8,
+        "views": 64,
+        "visitors": 9,
         "signups": 0,
-        "exercisesSeen": 13,
+        "exercisesSeen": 51,
         "days": 4,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
-        "another": 0,
-        "picked": 4,
+        "medianSecs": 4,
+        "another": 31,
+        "picked": 23,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -637,52 +1244,248 @@
         },
         {
           "d": "2026-11-10",
-          "views": 2,
-          "visitors": 2
+          "views": 53,
+          "visitors": 3
         }
       ],
       "exercises": [
         {
+          "key": 54,
+          "n": 3,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
+        },
+        {
           "key": 2,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 12
+          "secs": 15
+        },
+        {
+          "key": 3,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
         },
         {
           "key": 8,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 0,
-          "secs": 2
+          "secs": 3
         },
         {
           "key": 11,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 1
+          "secs": 2
         },
         {
           "key": 19,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 23,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 18
+        },
+        {
+          "key": 24,
+          "n": 2,
+          "visitors": 1,
+          "home": 1,
+          "secs": 83
+        },
+        {
+          "key": 29,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 7
+        },
+        {
+          "key": 40,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 52,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 5
+        },
+        {
+          "key": 60,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 1,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 4,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 5,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 6,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 7,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 9,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 10,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 12,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 13,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 14,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 15,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 16,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 17,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 18,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 20,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 22,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 25,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 26,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 27,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 28,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": 2
         },
         {
-          "key": 23,
+          "key": 30,
           "n": 1,
           "visitors": 1,
-          "home": 1,
-          "secs": 31
-        },
-        {
-          "key": 29,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
+          "home": 0,
+          "secs": 9
         },
         {
           "key": 32,
@@ -706,6 +1509,27 @@
           "secs": 22
         },
         {
+          "key": 38,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 23
+        },
+        {
+          "key": 41,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
           "key": 42,
           "n": 1,
           "visitors": 1,
@@ -713,18 +1537,53 @@
           "secs": 8
         },
         {
-          "key": 52,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 3
-        },
-        {
-          "key": 54,
+          "key": 43,
           "n": 1,
           "visitors": 1,
           "home": 0,
-          "secs": 2
+          "secs": 14
+        },
+        {
+          "key": 44,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 45,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 49,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 51,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 55,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
         },
         {
           "key": 58,
@@ -732,6 +1591,20 @@
           "visitors": 1,
           "home": 0,
           "secs": 3
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 7
+        },
+        {
+          "key": 62,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
         }
       ],
       "readDepth": [
@@ -757,33 +1630,37 @@
         },
         {
           "key": "11+",
-          "n": 0
+          "n": 1
         }
       ],
       "entries": [
         {
           "key": "/",
-          "n": 8
+          "n": 9
         }
       ],
       "moves": [
         {
+          "key": "another",
+          "n": 31
+        },
+        {
           "key": "list",
-          "n": 4
+          "n": 23
         }
       ],
       "sources": [
+        {
+          "key": "internal",
+          "n": 54
+        },
         {
           "key": "direct",
           "n": 7
         },
         {
-          "key": "internal",
-          "n": 4
-        },
-        {
           "key": "referral",
-          "n": 1
+          "n": 2
         },
         {
           "key": "social",
@@ -793,11 +1670,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 4
+          "n": 54
         },
         {
           "key": "peternilsson.us",
-          "n": 1
+          "n": 2
         },
         {
           "key": "facebook.com",
@@ -808,7 +1685,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 9
+          "n": 60
         },
         {
           "key": "GB",
@@ -824,6 +1701,10 @@
         }
       ],
       "cities": [
+        {
+          "key": "Raleigh, North Carolina",
+          "n": 51
+        },
         {
           "key": "Miami, Florida",
           "n": 5
@@ -855,19 +1736,23 @@
       ],
       "devices": [
         {
+          "key": "desktop",
+          "n": 54
+        },
+        {
           "key": "tablet",
           "n": 5
         },
         {
           "key": "mobile",
           "n": 5
-        },
-        {
-          "key": "desktop",
-          "n": 3
         }
       ],
       "browsers": [
+        {
+          "key": "Firefox",
+          "n": 51
+        },
         {
           "key": "Safari",
           "n": 10
@@ -898,20 +1783,20 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-10T16:29:47.338Z",
-      "to": "2026-11-10T16:29:47.338Z",
+      "from": "2025-11-11T00:44:33.127Z",
+      "to": "2026-11-11T00:44:33.127Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 13,
-        "visitors": 8,
+        "views": 64,
+        "visitors": 9,
         "signups": 0,
-        "exercisesSeen": 13,
+        "exercisesSeen": 51,
         "days": 4,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
-        "another": 0,
-        "picked": 4,
+        "medianSecs": 4,
+        "another": 31,
+        "picked": 23,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -934,52 +1819,248 @@
         },
         {
           "d": "2026-11-10",
-          "views": 2,
-          "visitors": 2
+          "views": 53,
+          "visitors": 3
         }
       ],
       "exercises": [
         {
+          "key": 54,
+          "n": 3,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
+        },
+        {
           "key": 2,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 12
+          "secs": 15
+        },
+        {
+          "key": 3,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
         },
         {
           "key": 8,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 0,
-          "secs": 2
+          "secs": 3
         },
         {
           "key": 11,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 1
+          "secs": 2
         },
         {
           "key": 19,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 23,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 18
+        },
+        {
+          "key": 24,
+          "n": 2,
+          "visitors": 1,
+          "home": 1,
+          "secs": 83
+        },
+        {
+          "key": 29,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 7
+        },
+        {
+          "key": 40,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 52,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 5
+        },
+        {
+          "key": 60,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 1,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 4,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 5,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 6,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 7,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 9,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 10,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 12,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 13,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 14,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 15,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 16,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 17,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 18,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 20,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 22,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 25,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 26,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 27,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 28,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": 2
         },
         {
-          "key": 23,
+          "key": 30,
           "n": 1,
           "visitors": 1,
-          "home": 1,
-          "secs": 31
-        },
-        {
-          "key": 29,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
+          "home": 0,
+          "secs": 9
         },
         {
           "key": 32,
@@ -1003,6 +2084,27 @@
           "secs": 22
         },
         {
+          "key": 38,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 23
+        },
+        {
+          "key": 41,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
           "key": 42,
           "n": 1,
           "visitors": 1,
@@ -1010,18 +2112,53 @@
           "secs": 8
         },
         {
-          "key": 52,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 3
-        },
-        {
-          "key": 54,
+          "key": 43,
           "n": 1,
           "visitors": 1,
           "home": 0,
-          "secs": 2
+          "secs": 14
+        },
+        {
+          "key": 44,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 45,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 49,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 51,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 55,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
         },
         {
           "key": 58,
@@ -1029,6 +2166,20 @@
           "visitors": 1,
           "home": 0,
           "secs": 3
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 7
+        },
+        {
+          "key": 62,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
         }
       ],
       "readDepth": [
@@ -1054,33 +2205,37 @@
         },
         {
           "key": "11+",
-          "n": 0
+          "n": 1
         }
       ],
       "entries": [
         {
           "key": "/",
-          "n": 8
+          "n": 9
         }
       ],
       "moves": [
         {
+          "key": "another",
+          "n": 31
+        },
+        {
           "key": "list",
-          "n": 4
+          "n": 23
         }
       ],
       "sources": [
+        {
+          "key": "internal",
+          "n": 54
+        },
         {
           "key": "direct",
           "n": 7
         },
         {
-          "key": "internal",
-          "n": 4
-        },
-        {
           "key": "referral",
-          "n": 1
+          "n": 2
         },
         {
           "key": "social",
@@ -1090,11 +2245,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 4
+          "n": 54
         },
         {
           "key": "peternilsson.us",
-          "n": 1
+          "n": 2
         },
         {
           "key": "facebook.com",
@@ -1105,7 +2260,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 9
+          "n": 60
         },
         {
           "key": "GB",
@@ -1121,6 +2276,10 @@
         }
       ],
       "cities": [
+        {
+          "key": "Raleigh, North Carolina",
+          "n": 51
+        },
         {
           "key": "Miami, Florida",
           "n": 5
@@ -1152,19 +2311,23 @@
       ],
       "devices": [
         {
+          "key": "desktop",
+          "n": 54
+        },
+        {
           "key": "tablet",
           "n": 5
         },
         {
           "key": "mobile",
           "n": 5
-        },
-        {
-          "key": "desktop",
-          "n": 3
         }
       ],
       "browsers": [
+        {
+          "key": "Firefox",
+          "n": 51
+        },
         {
           "key": "Safari",
           "n": 10
@@ -1196,19 +2359,19 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-10T16:29:47.338Z",
+      "to": "2026-11-11T00:44:33.127Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 13,
-        "visitors": 8,
+        "views": 64,
+        "visitors": 9,
         "signups": 0,
-        "exercisesSeen": 13,
+        "exercisesSeen": 51,
         "days": 4,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
-        "another": 0,
-        "picked": 4,
+        "medianSecs": 4,
+        "another": 31,
+        "picked": 23,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -1231,52 +2394,248 @@
         },
         {
           "d": "2026-11-10",
-          "views": 2,
-          "visitors": 2
+          "views": 53,
+          "visitors": 3
         }
       ],
       "exercises": [
         {
+          "key": 54,
+          "n": 3,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
+        },
+        {
           "key": 2,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 12
+          "secs": 15
+        },
+        {
+          "key": 3,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
         },
         {
           "key": 8,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 0,
-          "secs": 2
+          "secs": 3
         },
         {
           "key": 11,
-          "n": 1,
-          "visitors": 1,
+          "n": 2,
+          "visitors": 2,
           "home": 1,
-          "secs": 1
+          "secs": 2
         },
         {
           "key": 19,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 23,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 18
+        },
+        {
+          "key": 24,
+          "n": 2,
+          "visitors": 1,
+          "home": 1,
+          "secs": 83
+        },
+        {
+          "key": 29,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 7
+        },
+        {
+          "key": 40,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
+        },
+        {
+          "key": 52,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 5
+        },
+        {
+          "key": 60,
+          "n": 2,
+          "visitors": 1,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 1,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 4,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 5,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 6,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 7,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 9,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 10,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 12,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
+          "key": 13,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 14
+        },
+        {
+          "key": 14,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 15,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 16,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 17,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 18,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 20,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 11
+        },
+        {
+          "key": 22,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 25,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 26,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 27,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 28,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": 2
         },
         {
-          "key": 23,
+          "key": 30,
           "n": 1,
           "visitors": 1,
-          "home": 1,
-          "secs": 31
-        },
-        {
-          "key": 29,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
+          "home": 0,
+          "secs": 9
         },
         {
           "key": 32,
@@ -1300,6 +2659,27 @@
           "secs": 22
         },
         {
+          "key": 38,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 23
+        },
+        {
+          "key": 41,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
+        },
+        {
           "key": 42,
           "n": 1,
           "visitors": 1,
@@ -1307,18 +2687,53 @@
           "secs": 8
         },
         {
-          "key": 52,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 3
-        },
-        {
-          "key": 54,
+          "key": 43,
           "n": 1,
           "visitors": 1,
           "home": 0,
-          "secs": 2
+          "secs": 14
+        },
+        {
+          "key": 44,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 45,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 6
+        },
+        {
+          "key": 49,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 9
+        },
+        {
+          "key": 51,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 55,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 18
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 8
         },
         {
           "key": 58,
@@ -1326,6 +2741,20 @@
           "visitors": 1,
           "home": 0,
           "secs": 3
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 7
+        },
+        {
+          "key": 62,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
         }
       ],
       "readDepth": [
@@ -1351,33 +2780,37 @@
         },
         {
           "key": "11+",
-          "n": 0
+          "n": 1
         }
       ],
       "entries": [
         {
           "key": "/",
-          "n": 8
+          "n": 9
         }
       ],
       "moves": [
         {
+          "key": "another",
+          "n": 31
+        },
+        {
           "key": "list",
-          "n": 4
+          "n": 23
         }
       ],
       "sources": [
+        {
+          "key": "internal",
+          "n": 54
+        },
         {
           "key": "direct",
           "n": 7
         },
         {
-          "key": "internal",
-          "n": 4
-        },
-        {
           "key": "referral",
-          "n": 1
+          "n": 2
         },
         {
           "key": "social",
@@ -1387,11 +2820,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 4
+          "n": 54
         },
         {
           "key": "peternilsson.us",
-          "n": 1
+          "n": 2
         },
         {
           "key": "facebook.com",
@@ -1402,7 +2835,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 9
+          "n": 60
         },
         {
           "key": "GB",
@@ -1418,6 +2851,10 @@
         }
       ],
       "cities": [
+        {
+          "key": "Raleigh, North Carolina",
+          "n": 51
+        },
         {
           "key": "Miami, Florida",
           "n": 5
@@ -1449,19 +2886,23 @@
       ],
       "devices": [
         {
+          "key": "desktop",
+          "n": 54
+        },
+        {
           "key": "tablet",
           "n": 5
         },
         {
           "key": "mobile",
           "n": 5
-        },
-        {
-          "key": "desktop",
-          "n": 3
         }
       ],
       "browsers": [
+        {
+          "key": "Firefox",
+          "n": 51
+        },
         {
           "key": "Safari",
           "n": 10
