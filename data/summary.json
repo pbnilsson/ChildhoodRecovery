@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T16:24:28.717Z",
+  "generated": "2026-11-12T01:57:01.715Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,70 +18,25 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-10T16:24:28.717Z",
-      "to": "2026-11-11T16:24:28.717Z",
+      "from": "2026-11-11T01:57:01.715Z",
+      "to": "2026-11-12T01:57:01.715Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 54,
-        "visitors": 4,
+        "views": 3,
+        "visitors": 3,
         "signups": 1,
-        "exercisesSeen": 46,
-        "days": 2,
+        "exercisesSeen": 3,
+        "days": 1,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 4,
-        "another": 31,
-        "picked": 19,
+        "medianSecs": 3,
+        "another": 0,
+        "picked": 0,
         "shares": 0,
         "sharePresses": 0,
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-10T17:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T18:00:00.000Z",
-          "views": 51,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-10T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-10T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-11T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-11T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-11T02:00:00.000Z",
           "views": 0,
@@ -156,330 +111,74 @@
           "t": "2026-11-11T16:00:00.000Z",
           "views": 1,
           "visitors": 1
+        },
+        {
+          "t": "2026-11-11T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T18:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T20:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-11T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-12T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-12T01:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
         {
-          "key": 40,
-          "n": 3,
-          "visitors": 2,
-          "home": 1,
-          "secs": 8
-        },
-        {
-          "key": 3,
-          "n": 2,
-          "visitors": 1,
-          "home": 0,
-          "secs": 11
-        },
-        {
           "key": 6,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": 4
-        },
-        {
-          "key": 24,
-          "n": 2,
+          "n": 1,
           "visitors": 1,
           "home": 1,
-          "secs": 83
+          "secs": 3
         },
         {
           "key": 26,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 54,
-          "n": 2,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 60,
-          "n": 2,
-          "visitors": 1,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 1,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 2,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 18
-        },
-        {
-          "key": 4,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 5,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 7,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 8,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 9,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 10,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 5
-        },
-        {
-          "key": 11,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 12,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 5
-        },
-        {
-          "key": 13,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 14
-        },
-        {
-          "key": 14,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 15,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 16,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 9
-        },
-        {
-          "key": 17,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 18,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 19,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 15
-        },
-        {
-          "key": 20,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 21,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 11
-        },
-        {
-          "key": 22,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 23,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 5
-        },
-        {
-          "key": 25,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 27,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 28,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 29,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 11
-        },
-        {
-          "key": 30,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 9
-        },
-        {
-          "key": 38,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 3
-        },
-        {
-          "key": 39,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 23
-        },
-        {
-          "key": 41,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 5
-        },
-        {
-          "key": 43,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 14
-        },
-        {
-          "key": 44,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": null
         },
         {
-          "key": 45,
+          "key": 40,
           "n": 1,
           "visitors": 1,
-          "home": 0,
-          "secs": 6
-        },
-        {
-          "key": 49,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 9
-        },
-        {
-          "key": 51,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
-        },
-        {
-          "key": 52,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 6
-        },
-        {
-          "key": 55,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 18
-        },
-        {
-          "key": 57,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 8
-        },
-        {
-          "key": 59,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 7
-        },
-        {
-          "key": 62,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 4
+          "home": 1,
+          "secs": null
         }
       ],
       "readDepth": [
@@ -505,61 +204,35 @@
         },
         {
           "key": "11+",
-          "n": 1
+          "n": 0
         }
       ],
       "entries": [
         {
           "key": "/",
-          "n": 3
+          "n": 2
         },
         {
           "key": "/26/",
           "n": 1
         }
       ],
-      "moves": [
-        {
-          "key": "another",
-          "n": 31
-        },
-        {
-          "key": "list",
-          "n": 19
-        }
-      ],
+      "moves": [],
       "sources": [
-        {
-          "key": "internal",
-          "n": 50
-        },
         {
           "key": "direct",
           "n": 3
-        },
-        {
-          "key": "referral",
-          "n": 1
         }
       ],
-      "referrers": [
-        {
-          "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 50
-        },
-        {
-          "key": "peternilsson.us",
-          "n": 1
-        }
-      ],
+      "referrers": [],
       "campaigns": [],
       "countries": [
         {
-          "key": "US",
-          "n": 52
+          "key": "CO",
+          "n": 1
         },
         {
-          "key": "CO",
+          "key": "US",
           "n": 1
         },
         {
@@ -568,10 +241,6 @@
         }
       ],
       "cities": [
-        {
-          "key": "Raleigh, North Carolina",
-          "n": 51
-        },
         {
           "key": "Cali, Valle del Cauca Department",
           "n": 1
@@ -588,7 +257,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 53
+          "n": 2
         },
         {
           "key": "mobile",
@@ -596,10 +265,6 @@
         }
       ],
       "browsers": [
-        {
-          "key": "Firefox",
-          "n": 51
-        },
         {
           "key": "Chrome",
           "n": 2
@@ -630,8 +295,8 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-04T16:24:28.717Z",
-      "to": "2026-11-11T16:24:28.717Z",
+      "from": "2026-11-05T01:57:01.715Z",
+      "to": "2026-11-12T01:57:01.715Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1240,8 +905,8 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-12T16:24:28.717Z",
-      "to": "2026-11-11T16:24:28.717Z",
+      "from": "2026-10-13T01:57:01.715Z",
+      "to": "2026-11-12T01:57:01.715Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1850,8 +1515,8 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-11T16:24:28.717Z",
-      "to": "2026-11-11T16:24:28.717Z",
+      "from": "2025-11-12T01:57:01.715Z",
+      "to": "2026-11-12T01:57:01.715Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -2461,7 +2126,7 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-11T16:24:28.717Z",
+      "to": "2026-11-12T01:57:01.715Z",
       "available": true,
       "granularity": "day",
       "totals": {
