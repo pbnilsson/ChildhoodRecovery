@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T02:30:11.308Z",
+  "generated": "2026-11-18T17:23:18.991Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -11,25 +11,96 @@
   "total": 62,
   "span": {
     "first": "2026-11-07T10:46:54.718Z",
-    "days": 11
+    "days": 12
   },
   "ranges": {
     "24h": {
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-17T02:30:11.308Z",
-      "to": "2026-11-18T02:30:11.308Z",
+      "from": "2026-11-17T17:23:18.991Z",
+      "to": "2026-11-18T17:23:18.991Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 1,
-        "visitors": 1,
+        "views": 0,
+        "visitors": 0,
         "signups": 0,
-        "exercisesSeen": 1,
-        "days": 1,
-        "medianExercisesPerVisit": 1,
+        "exercisesSeen": 0,
+        "days": 0,
+        "medianExercisesPerVisit": null,
         "medianSecs": null,
+        "another": 0,
+        "picked": 0,
+        "shares": 0,
+        "sharePresses": 0,
+        "instagram": 0
+      },
+      "series": [],
+      "exercises": [],
+      "readDepth": [
+        {
+          "key": "1",
+          "n": 0
+        },
+        {
+          "key": "2",
+          "n": 0
+        },
+        {
+          "key": "3",
+          "n": 0
+        },
+        {
+          "key": "4–5",
+          "n": 0
+        },
+        {
+          "key": "6–10",
+          "n": 0
+        },
+        {
+          "key": "11+",
+          "n": 0
+        }
+      ],
+      "entries": [],
+      "moves": [],
+      "sources": [],
+      "referrers": [],
+      "campaigns": [],
+      "countries": [],
+      "cities": [],
+      "devices": [],
+      "browsers": [],
+      "signupsBySource": [],
+      "signupsByEntry": [],
+      "links": [],
+      "shareWays": [],
+      "sharedExercises": [],
+      "instagramFrom": [],
+      "dataCenter": {
+        "views": 0,
+        "visits": 0,
+        "places": []
+      }
+    },
+    "week": {
+      "key": "week",
+      "label": "Last week",
+      "short": "Week",
+      "from": "2026-11-11T17:23:18.991Z",
+      "to": "2026-11-18T17:23:18.991Z",
+      "available": true,
+      "granularity": "day",
+      "totals": {
+        "views": 6,
+        "visitors": 6,
+        "signups": 0,
+        "exercisesSeen": 6,
+        "days": 6,
+        "medianExercisesPerVisit": 1,
+        "medianSecs": 2,
         "another": 0,
         "picked": 0,
         "shares": 0,
@@ -38,129 +109,74 @@
       },
       "series": [
         {
-          "t": "2026-11-17T03:00:00.000Z",
+          "d": "2026-11-12",
           "views": 1,
           "visitors": 1
         },
         {
-          "t": "2026-11-17T04:00:00.000Z",
-          "views": 0,
-          "visitors": 0
+          "d": "2026-11-13",
+          "views": 1,
+          "visitors": 1
         },
         {
-          "t": "2026-11-17T05:00:00.000Z",
-          "views": 0,
-          "visitors": 0
+          "d": "2026-11-14",
+          "views": 1,
+          "visitors": 1
         },
         {
-          "t": "2026-11-17T06:00:00.000Z",
-          "views": 0,
-          "visitors": 0
+          "d": "2026-11-15",
+          "views": 1,
+          "visitors": 1
         },
         {
-          "t": "2026-11-17T07:00:00.000Z",
-          "views": 0,
-          "visitors": 0
+          "d": "2026-11-16",
+          "views": 1,
+          "visitors": 1
         },
         {
-          "t": "2026-11-17T08:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T09:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T10:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T11:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T12:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T13:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T14:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T15:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T17:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T18:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-17T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-18T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-18T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-18T02:00:00.000Z",
-          "views": 0,
-          "visitors": 0
+          "d": "2026-11-17",
+          "views": 1,
+          "visitors": 1
         }
       ],
       "exercises": [
         {
+          "key": 32,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": null
+        },
+        {
+          "key": 37,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 40,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": null
+        },
+        {
           "key": 47,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": null
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": 2
+        },
+        {
+          "key": 61,
           "n": 1,
           "visitors": 1,
           "home": 1,
@@ -170,7 +186,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 1
+          "n": 6
         },
         {
           "key": "2",
@@ -196,6 +212,10 @@
       "entries": [
         {
           "key": "/",
+          "n": 5
+        },
+        {
+          "key": "/37/",
           "n": 1
         }
       ],
@@ -203,18 +223,51 @@
       "sources": [
         {
           "key": "direct",
+          "n": 5
+        },
+        {
+          "key": "search",
           "n": 1
         }
       ],
-      "referrers": [],
+      "referrers": [
+        {
+          "key": "google.com",
+          "n": 1
+        }
+      ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
+          "n": 5
+        },
+        {
+          "key": "CH",
           "n": 1
         }
       ],
       "cities": [
+        {
+          "key": "Boston, Massachusetts",
+          "n": 1
+        },
+        {
+          "key": "Indianapolis, Indiana",
+          "n": 1
+        },
+        {
+          "key": "San Antonio, Texas",
+          "n": 1
+        },
+        {
+          "key": "Mountain View, California",
+          "n": 1
+        },
+        {
+          "key": "Zürich, Zurich",
+          "n": 1
+        },
         {
           "key": "Roanoke, Indiana",
           "n": 1
@@ -222,13 +275,25 @@
       ],
       "devices": [
         {
+          "key": "desktop",
+          "n": 4
+        },
+        {
           "key": "mobile",
-          "n": 1
+          "n": 2
         }
       ],
       "browsers": [
         {
+          "key": "Chrome",
+          "n": 3
+        },
+        {
           "key": "Safari",
+          "n": 2
+        },
+        {
+          "key": "Other",
           "n": 1
         }
       ],
@@ -237,286 +302,19 @@
       "links": [],
       "shareWays": [],
       "sharedExercises": [],
-      "instagramFrom": []
-    },
-    "week": {
-      "key": "week",
-      "label": "Last week",
-      "short": "Week",
-      "from": "2026-11-11T02:30:11.308Z",
-      "to": "2026-11-18T02:30:11.308Z",
-      "available": true,
-      "granularity": "day",
-      "totals": {
-        "views": 9,
-        "visitors": 9,
-        "signups": 1,
-        "exercisesSeen": 8,
-        "days": 7,
-        "medianExercisesPerVisit": 1,
-        "medianSecs": 3,
-        "another": 0,
-        "picked": 0,
-        "shares": 0,
-        "sharePresses": 0,
-        "instagram": 0
-      },
-      "series": [
-        {
-          "d": "2026-11-11",
-          "views": 3,
-          "visitors": 3
-        },
-        {
-          "d": "2026-11-12",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-13",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-14",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-15",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-16",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-17",
-          "views": 1,
-          "visitors": 1
-        }
-      ],
-      "exercises": [
-        {
-          "key": 40,
-          "n": 2,
-          "visitors": 2,
-          "home": 2,
-          "secs": null
-        },
-        {
-          "key": 6,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 3
-        },
-        {
-          "key": 26,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 32,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        },
-        {
-          "key": 37,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 47,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        },
-        {
-          "key": 59,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
-        },
-        {
-          "key": 61,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        }
-      ],
-      "readDepth": [
-        {
-          "key": "1",
-          "n": 9
-        },
-        {
-          "key": "2",
-          "n": 0
-        },
-        {
-          "key": "3",
-          "n": 0
-        },
-        {
-          "key": "4–5",
-          "n": 0
-        },
-        {
-          "key": "6–10",
-          "n": 0
-        },
-        {
-          "key": "11+",
-          "n": 0
-        }
-      ],
-      "entries": [
-        {
-          "key": "/",
-          "n": 7
-        },
-        {
-          "key": "/26/",
-          "n": 1
-        },
-        {
-          "key": "/37/",
-          "n": 1
-        }
-      ],
-      "moves": [],
-      "sources": [
-        {
-          "key": "direct",
-          "n": 8
-        },
-        {
-          "key": "search",
-          "n": 1
-        }
-      ],
-      "referrers": [
-        {
-          "key": "google.com",
-          "n": 1
-        }
-      ],
-      "campaigns": [],
-      "countries": [
-        {
-          "key": "US",
-          "n": 6
-        },
-        {
-          "key": "CO",
-          "n": 1
-        },
-        {
-          "key": "GB",
-          "n": 1
-        },
-        {
-          "key": "CH",
-          "n": 1
-        }
-      ],
-      "cities": [
-        {
-          "key": "Cali, Valle del Cauca Department",
-          "n": 1
-        },
-        {
-          "key": "New York City, New York",
-          "n": 1
-        },
-        {
-          "key": "Kingston upon Hull, England",
-          "n": 1
-        },
-        {
-          "key": "Boston, Massachusetts",
-          "n": 1
-        },
-        {
-          "key": "Indianapolis, Indiana",
-          "n": 1
-        },
-        {
-          "key": "San Antonio, Texas",
-          "n": 1
-        },
-        {
-          "key": "Mountain View, California",
-          "n": 1
-        },
-        {
-          "key": "Zürich, Zurich",
-          "n": 1
-        },
-        {
-          "key": "Roanoke, Indiana",
-          "n": 1
-        }
-      ],
-      "devices": [
-        {
-          "key": "desktop",
-          "n": 6
-        },
-        {
-          "key": "mobile",
-          "n": 3
-        }
-      ],
-      "browsers": [
-        {
-          "key": "Chrome",
-          "n": 5
-        },
-        {
-          "key": "Safari",
-          "n": 3
-        },
-        {
-          "key": "Other",
-          "n": 1
-        }
-      ],
-      "signupsBySource": [
-        {
-          "key": "direct",
-          "n": 1
-        }
-      ],
-      "signupsByEntry": [
-        {
-          "key": "/",
-          "n": 1
-        }
-      ],
-      "links": [],
-      "shareWays": [],
-      "sharedExercises": [],
-      "instagramFrom": []
+      "instagramFrom": [],
+      "dataCenter": {
+        "views": 0,
+        "visits": 0,
+        "places": []
+      }
     },
     "month": {
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-19T02:30:11.308Z",
-      "to": "2026-11-18T02:30:11.308Z",
+      "from": "2026-10-19T17:23:18.991Z",
+      "to": "2026-11-18T17:23:18.991Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1207,14 +1005,19 @@
           "key": 33,
           "n": 1
         }
-      ]
+      ],
+      "dataCenter": {
+        "views": 0,
+        "visits": 0,
+        "places": []
+      }
     },
     "year": {
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-18T02:30:11.308Z",
-      "to": "2026-11-18T02:30:11.308Z",
+      "from": "2025-11-18T17:23:18.991Z",
+      "to": "2026-11-18T17:23:18.991Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1905,14 +1708,19 @@
           "key": 33,
           "n": 1
         }
-      ]
+      ],
+      "dataCenter": {
+        "views": 0,
+        "visits": 0,
+        "places": []
+      }
     },
     "all": {
       "key": "all",
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-18T02:30:11.308Z",
+      "to": "2026-11-18T17:23:18.991Z",
       "available": true,
       "granularity": "day",
       "totals": {
@@ -2603,7 +2411,12 @@
           "key": 33,
           "n": 1
         }
-      ]
+      ],
+      "dataCenter": {
+        "views": 0,
+        "visits": 0,
+        "places": []
+      }
     }
   }
 }
