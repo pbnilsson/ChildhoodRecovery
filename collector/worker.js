@@ -14,7 +14,8 @@
 //                             GitHub repo secret CHILDHOOD_NOTES_KEY
 //
 // What it never stores: IP address, full user-agent, exact screen width,
-// referrer path, or network/ISP name.
+// referrer path, or network/ISP name. (Cloud data-center traffic gets a bare
+// yes/no flag, dc = 1, and is left out of the stats.)
 
 const ALLOWED_ORIGINS = [
   "https://exercisesfortherecoveryofchildhood.com",
@@ -24,6 +25,41 @@ const ALLOWED_ORIGINS = [
 const OUR_HOSTS = /(^|\.)exercisesfortherecoveryofchildhood\.com$|^pbnilsson\.github\.io$/i;
 const KINDS = new Set(["view", "click", "end", "signup"]);
 const BOT = /bot|crawl|spider|slurp|headless|lighthouse|preview|facebookexternalhit|embedly|monitor|curl|wget|python|axios/i;
+
+// Cloud data centers (Amazon, Google, Microsoft, DigitalOcean and the like).
+// A page view from one of these is almost always a script, not a person: a
+// link-preview fetcher, an uptime checker, an AI crawler wearing a browser's
+// clothes. Only a yes/no flag is kept (dc = 1). The network's name is never
+// stored. Home and office ISPs, iCloud Private Relay (Akamai) and Cloudflare
+// WARP are deliberately NOT on this list, since real people sit behind them.
+const CLOUD_ASN = new Set([
+  16509, 14618, 8987,                 // Amazon / AWS
+  15169, 396982, 19527, 139070,       // Google / Google Cloud
+  8075, 8068,                         // Microsoft / Azure
+  31898,                              // Oracle Cloud
+  36351,                              // IBM Cloud (SoftLayer)
+  14061,                              // DigitalOcean
+  63949,                              // Linode / Akamai Cloud
+  20473,                              // Vultr (Choopa)
+  16276,                              // OVH
+  24940, 213230,                      // Hetzner
+  51167,                              // Contabo
+  12876,                              // Scaleway
+  60781, 16265, 28753,                // Leaseweb
+  45102, 37963,                       // Alibaba Cloud
+  132203, 45090,                      // Tencent Cloud
+  136907,                             // Huawei Cloud
+  9009,                               // M247
+  60068,                              // DataCamp / CDN77
+  47583,                              // Hostinger
+  8560,                               // IONOS
+  36352,                              // ColoCrossing
+  8100,                               // QuadraNet
+]);
+const CLOUD_NAME = /amazon|\baws\b|google cloud|azure|digitalocean|linode|vultr|choopa|\bovh|hetzner|contabo|scaleway|leaseweb|oracle cloud|alibaba|tencent cloud|huawei cloud|hostinger|\bm247\b|datacamp|colocrossing|quadranet/i;
+function isCloud(cf) {
+  return CLOUD_ASN.has(Number(cf.asn)) || CLOUD_NAME.test(String(cf.asOrganization || ""));
+}
 
 const SEARCH = /(^|\.)(google|bing|duckduckgo|yahoo|ecosia|baidu|yandex|startpage|brave|kagi|perplexity|search\.)/i;
 const SOCIAL = /(^|\.)(facebook|fb|instagram|linkedin|lnkd|t\.co|twitter|x\.com|threads|bsky|bluesky|mastodon|reddit|youtube|tiktok|pinterest|substack)/i;
@@ -92,7 +128,7 @@ async function collect(req, env) {
     exercise: Number.isInteger(d.x) && d.x >= 1 && d.x <= 62 ? d.x : null,
   };
 
-  await env.DB.prepare(
+  const saved = await env.DB.prepare(
     `INSERT INTO rows (ts, kind, path, target, ref, source, campaign, country, screen,
                        visit, city, region, device, browser, os, depth, secs, exercise)
      VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18)`
@@ -100,6 +136,15 @@ async function collect(req, env) {
     row.ts, row.kind, row.path, row.target, row.ref, row.source, row.campaign, row.country,
     row.screen, row.visit, row.city, row.region, row.device, row.browser, row.os, row.depth, row.secs, row.exercise
   ).run();
+
+  // Tag data-center traffic in a second step, so a D1 table that hasn't had
+  // its dc column added yet (see schema.sql) still records the visit itself.
+  if (isCloud(cf)) {
+    try {
+      await env.DB.prepare("UPDATE rows SET dc = 1 WHERE id = ?1")
+        .bind(saved.meta.last_row_id).run();
+    } catch (e) { /* no dc column yet */ }
+  }
 
   return new Response(null, { status: 204, headers: cors });
 }
@@ -113,11 +158,18 @@ async function exportRows(url, env) {
   const since = url.searchParams.get("since") || "1970-01-01";
   if (!/^\d{4}-\d{2}-\d{2}$/.test(since)) return new Response("bad since", { status: 400 });
 
-  const { results } = await env.DB.prepare(
-    `SELECT ts, kind, path, target, ref, source, campaign, country, screen,
-            visit, city, region, device, browser, os, depth, secs, exercise
-       FROM rows WHERE ts >= ?1 ORDER BY ts`
-  ).bind(since).all();
+  const COLS = "ts, kind, path, target, ref, source, campaign, country, screen, visit, city, region, device, browser, os, depth, secs, exercise";
+  let results;
+  try {
+    ({ results } = await env.DB.prepare(
+      "SELECT " + COLS + ", dc FROM rows WHERE ts >= ?1 ORDER BY ts"
+    ).bind(since).all());
+  } catch (e) {
+    // The table predates the dc column (see schema.sql).
+    ({ results } = await env.DB.prepare(
+      "SELECT " + COLS + " FROM rows WHERE ts >= ?1 ORDER BY ts"
+    ).bind(since).all());
+  }
 
   if (url.searchParams.get("prune") === "1") {
     await env.DB.prepare("DELETE FROM rows WHERE ts < ?1").bind(since).run();
