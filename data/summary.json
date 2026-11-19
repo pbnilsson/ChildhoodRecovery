@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T17:23:18.991Z",
+  "generated": "2026-11-19T01:55:50.983Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,8 +18,8 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-17T17:23:18.991Z",
-      "to": "2026-11-18T17:23:18.991Z",
+      "from": "2026-11-18T01:55:50.983Z",
+      "to": "2026-11-19T01:55:50.983Z",
       "available": true,
       "granularity": "hour",
       "totals": {
@@ -89,8 +89,8 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-11T17:23:18.991Z",
-      "to": "2026-11-18T17:23:18.991Z",
+      "from": "2026-11-12T01:55:50.983Z",
+      "to": "2026-11-19T01:55:50.983Z",
       "available": true,
       "granularity": "day",
       "totals": {
@@ -313,8 +313,8 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-19T17:23:18.991Z",
-      "to": "2026-11-18T17:23:18.991Z",
+      "from": "2026-10-20T01:55:50.983Z",
+      "to": "2026-11-19T01:55:50.983Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1016,8 +1016,8 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-18T17:23:18.991Z",
-      "to": "2026-11-18T17:23:18.991Z",
+      "from": "2025-11-19T01:55:50.983Z",
+      "to": "2026-11-19T01:55:50.983Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1720,7 +1720,7 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-18T17:23:18.991Z",
+      "to": "2026-11-19T01:55:50.983Z",
       "available": true,
       "granularity": "day",
       "totals": {
