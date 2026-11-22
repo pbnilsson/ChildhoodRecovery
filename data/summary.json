@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T00:31:59.805Z",
+  "generated": "2026-11-22T16:29:16.389Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -11,22 +11,22 @@
   "total": 62,
   "span": {
     "first": "2026-11-07T10:46:54.718Z",
-    "days": 15
+    "days": 16
   },
   "ranges": {
     "24h": {
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-21T00:31:59.805Z",
-      "to": "2026-11-22T00:31:59.805Z",
+      "from": "2026-11-21T16:29:16.389Z",
+      "to": "2026-11-22T16:29:16.389Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 14,
-        "visitors": 14,
+        "views": 3,
+        "visitors": 3,
         "signups": 0,
-        "exercisesSeen": 13,
+        "exercisesSeen": 3,
         "days": 1,
         "medianExercisesPerVisit": 1,
         "medianSecs": null,
@@ -37,86 +37,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-21T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T02:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T03:00:00.000Z",
-          "views": 2,
-          "visitors": 2
-        },
-        {
-          "t": "2026-11-21T04:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-21T05:00:00.000Z",
-          "views": 2,
-          "visitors": 2
-        },
-        {
-          "t": "2026-11-21T06:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T07:00:00.000Z",
-          "views": 3,
-          "visitors": 3
-        },
-        {
-          "t": "2026-11-21T08:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T09:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T10:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T11:00:00.000Z",
-          "views": 2,
-          "visitors": 2
-        },
-        {
-          "t": "2026-11-21T12:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-21T13:00:00.000Z",
-          "views": 2,
-          "visitors": 2
-        },
-        {
-          "t": "2026-11-21T14:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-21T15:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-21T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-21T17:00:00.000Z",
           "views": 0,
@@ -156,105 +76,115 @@
           "t": "2026-11-22T00:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-22T01:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T05:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T06:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T07:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T08:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T09:00:00.000Z",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-22T10:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T11:00:00.000Z",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-22T12:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T13:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T14:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-22T15:00:00.000Z",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-22T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
         {
-          "key": 14,
-          "n": 2,
-          "visitors": 2,
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 61,
+          "n": 1,
+          "visitors": 1,
           "home": 1,
-          "secs": null
-        },
-        {
-          "key": 5,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 7,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 10,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 12,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 18,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 35,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 36,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 40,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 41,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 44,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 45,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 57,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
           "secs": null
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 14
+          "n": 3
         },
         {
           "key": "2",
@@ -279,51 +209,15 @@
       ],
       "entries": [
         {
+          "key": "/33/",
+          "n": 1
+        },
+        {
+          "key": "/59/",
+          "n": 1
+        },
+        {
           "key": "/",
-          "n": 1
-        },
-        {
-          "key": "/14/",
-          "n": 1
-        },
-        {
-          "key": "/12/",
-          "n": 1
-        },
-        {
-          "key": "/10/",
-          "n": 1
-        },
-        {
-          "key": "/36/",
-          "n": 1
-        },
-        {
-          "key": "/18/",
-          "n": 1
-        },
-        {
-          "key": "/40/",
-          "n": 1
-        },
-        {
-          "key": "/35/",
-          "n": 1
-        },
-        {
-          "key": "/7/",
-          "n": 1
-        },
-        {
-          "key": "/45/",
-          "n": 1
-        },
-        {
-          "key": "/44/",
-          "n": 1
-        },
-        {
-          "key": "/57/",
           "n": 1
         }
       ],
@@ -331,112 +225,48 @@
       "sources": [
         {
           "key": "direct",
-          "n": 14
+          "n": 3
         }
       ],
       "referrers": [],
       "campaigns": [],
       "countries": [
         {
-          "key": "US",
-          "n": 7
-        },
-        {
-          "key": "CO",
+          "key": "BR",
           "n": 2
         },
         {
-          "key": "ES",
-          "n": 1
-        },
-        {
-          "key": "XK",
-          "n": 1
-        },
-        {
-          "key": "BR",
-          "n": 1
-        },
-        {
-          "key": "IE",
-          "n": 1
-        },
-        {
-          "key": "SV",
+          "key": "US",
           "n": 1
         }
       ],
       "cities": [
         {
-          "key": "Bogotá, Bogota D.C.",
-          "n": 2
-        },
-        {
-          "key": "Roanoke, Indiana",
+          "key": "Goiânia, Goiás",
           "n": 1
         },
         {
-          "key": "Baños de Montemayor, Extremadura",
+          "key": "Americana, São Paulo",
           "n": 1
         },
         {
-          "key": "Roxboro, North Carolina",
-          "n": 1
-        },
-        {
-          "key": "Suva Reka, Komuna e Thërandës",
-          "n": 1
-        },
-        {
-          "key": "New York City, New York",
-          "n": 1
-        },
-        {
-          "key": "Pittsburgh, Pennsylvania",
-          "n": 1
-        },
-        {
-          "key": "Belém, Pará",
-          "n": 1
-        },
-        {
-          "key": "Dublin, Leinster",
-          "n": 1
-        },
-        {
-          "key": "Spartanburg, South Carolina",
-          "n": 1
-        },
-        {
-          "key": "Knoxville, Tennessee",
-          "n": 1
-        },
-        {
-          "key": "San Salvador, San Salvador Department",
-          "n": 1
-        },
-        {
-          "key": "Palm Bay, Florida",
+          "key": "San Jose, California",
           "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 13
-        },
-        {
-          "key": "mobile",
-          "n": 1
+          "n": 3
         }
       ],
       "browsers": [
         {
           "key": "Chrome",
-          "n": 13
+          "n": 2
         },
         {
-          "key": "Safari",
+          "key": "Other",
           "n": 1
         }
       ],
@@ -456,15 +286,15 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-15T00:31:59.805Z",
-      "to": "2026-11-22T00:31:59.805Z",
+      "from": "2026-11-15T16:29:16.389Z",
+      "to": "2026-11-22T16:29:16.389Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 39,
-        "visitors": 39,
+        "views": 41,
+        "visitors": 41,
         "signups": 0,
-        "exercisesSeen": 34,
+        "exercisesSeen": 37,
         "days": 7,
         "medianExercisesPerVisit": 1,
         "medianSecs": 3,
@@ -475,11 +305,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "d": "2026-11-15",
-          "views": 1,
-          "visitors": 1
-        },
         {
           "d": "2026-11-16",
           "views": 1,
@@ -509,6 +334,11 @@
           "d": "2026-11-21",
           "views": 16,
           "visitors": 16
+        },
+        {
+          "d": "2026-11-22",
+          "views": 3,
+          "visitors": 3
         }
       ],
       "exercises": [
@@ -521,13 +351,6 @@
         },
         {
           "key": 14,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": null
-        },
-        {
-          "key": 40,
           "n": 2,
           "visitors": 2,
           "home": 1,
@@ -681,6 +504,13 @@
           "secs": null
         },
         {
+          "key": 33,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
           "key": 34,
           "n": 1,
           "visitors": 1,
@@ -703,6 +533,13 @@
         },
         {
           "key": 39,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 40,
           "n": 1,
           "visitors": 1,
           "home": 0,
@@ -749,12 +586,26 @@
           "visitors": 1,
           "home": 0,
           "secs": null
+        },
+        {
+          "key": 59,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
+          "key": 61,
+          "n": 1,
+          "visitors": 1,
+          "home": 1,
+          "secs": null
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 39
+          "n": 41
         },
         {
           "key": "2",
@@ -831,7 +682,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 39
+          "n": 41
         }
       ],
       "referrers": [],
@@ -843,7 +694,7 @@
         },
         {
           "key": "BR",
-          "n": 3
+          "n": 5
         },
         {
           "key": "EC",
@@ -904,11 +755,11 @@
       ],
       "cities": [
         {
-          "key": "Roanoke, Indiana",
-          "n": 2
+          "key": "San Jose, California",
+          "n": 3
         },
         {
-          "key": "San Jose, California",
+          "key": "Roanoke, Indiana",
           "n": 2
         },
         {
@@ -918,10 +769,6 @@
         {
           "key": "Bogotá, Bogota D.C.",
           "n": 2
-        },
-        {
-          "key": "Mountain View, California",
-          "n": 1
         },
         {
           "key": "Zürich, Zurich",
@@ -982,12 +829,16 @@
         {
           "key": "La Paz, La Paz Department",
           "n": 1
+        },
+        {
+          "key": "Itapevi, São Paulo",
+          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 37
+          "n": 39
         },
         {
           "key": "mobile",
@@ -997,14 +848,14 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 35
-        },
-        {
-          "key": "Safari",
-          "n": 2
+          "n": 36
         },
         {
           "key": "Other",
+          "n": 3
+        },
+        {
+          "key": "Safari",
           "n": 2
         }
       ],
@@ -1024,16 +875,16 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-23T00:31:59.805Z",
-      "to": "2026-11-22T00:31:59.805Z",
+      "from": "2026-10-23T16:29:16.389Z",
+      "to": "2026-11-22T16:29:16.389Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 109,
-        "visitors": 54,
+        "views": 112,
+        "visitors": 57,
         "signups": 1,
         "exercisesSeen": 58,
-        "days": 15,
+        "days": 16,
         "medianExercisesPerVisit": 1,
         "medianSecs": 4,
         "another": 31,
@@ -1117,6 +968,11 @@
           "d": "2026-11-21",
           "views": 16,
           "visitors": 16
+        },
+        {
+          "d": "2026-11-22",
+          "views": 3,
+          "visitors": 3
         }
       ],
       "exercises": [
@@ -1189,6 +1045,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 59,
+          "n": 3,
+          "visitors": 3,
+          "home": 1,
+          "secs": 5
         },
         {
           "key": 2,
@@ -1317,6 +1180,13 @@
           "secs": 10
         },
         {
+          "key": 33,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 9
+        },
+        {
           "key": 37,
           "n": 2,
           "visitors": 2,
@@ -1380,18 +1250,18 @@
           "secs": 8
         },
         {
-          "key": 59,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": 5
-        },
-        {
           "key": 60,
           "n": 2,
           "visitors": 1,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 61,
+          "n": 2,
+          "visitors": 2,
+          "home": 2,
+          "secs": null
         },
         {
           "key": 4,
@@ -1441,13 +1311,6 @@
           "visitors": 1,
           "home": 0,
           "secs": null
-        },
-        {
-          "key": 33,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 9
         },
         {
           "key": 34,
@@ -1513,13 +1376,6 @@
           "secs": 3
         },
         {
-          "key": 61,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        },
-        {
           "key": 62,
           "n": 1,
           "visitors": 1,
@@ -1530,7 +1386,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 51
+          "n": 54
         },
         {
           "key": "2",
@@ -1556,7 +1412,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 19
+          "n": 20
         },
         {
           "key": "/1/",
@@ -1615,12 +1471,12 @@
       ],
       "sources": [
         {
-          "key": "internal",
+          "key": "direct",
           "n": 54
         },
         {
-          "key": "direct",
-          "n": 51
+          "key": "internal",
+          "n": 54
         },
         {
           "key": "referral",
@@ -1657,7 +1513,11 @@
       "countries": [
         {
           "key": "US",
-          "n": 84
+          "n": 85
+        },
+        {
+          "key": "BR",
+          "n": 5
         },
         {
           "key": "GB",
@@ -1665,10 +1525,6 @@
         },
         {
           "key": "CO",
-          "n": 3
-        },
-        {
-          "key": "BR",
           "n": 3
         },
         {
@@ -1742,15 +1598,15 @@
           "n": 3
         },
         {
+          "key": "San Jose, California",
+          "n": 3
+        },
+        {
           "key": "Margate, Florida",
           "n": 2
         },
         {
           "key": "Roanoke, Indiana",
-          "n": 2
-        },
-        {
-          "key": "San Jose, California",
           "n": 2
         },
         {
@@ -1809,7 +1665,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 95
+          "n": 98
         },
         {
           "key": "mobile",
@@ -1827,7 +1683,7 @@
         },
         {
           "key": "Chrome",
-          "n": 41
+          "n": 43
         },
         {
           "key": "Safari",
@@ -1835,7 +1691,7 @@
         },
         {
           "key": "Other",
-          "n": 3
+          "n": 4
         }
       ],
       "signupsBySource": [
@@ -1874,16 +1730,16 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-22T00:31:59.805Z",
-      "to": "2026-11-22T00:31:59.805Z",
+      "from": "2025-11-22T16:29:16.389Z",
+      "to": "2026-11-22T16:29:16.389Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 109,
-        "visitors": 54,
+        "views": 112,
+        "visitors": 57,
         "signups": 1,
         "exercisesSeen": 58,
-        "days": 15,
+        "days": 16,
         "medianExercisesPerVisit": 1,
         "medianSecs": 4,
         "another": 31,
@@ -1967,6 +1823,11 @@
           "d": "2026-11-21",
           "views": 16,
           "visitors": 16
+        },
+        {
+          "d": "2026-11-22",
+          "views": 3,
+          "visitors": 3
         }
       ],
       "exercises": [
@@ -2039,6 +1900,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 59,
+          "n": 3,
+          "visitors": 3,
+          "home": 1,
+          "secs": 5
         },
         {
           "key": 2,
@@ -2167,6 +2035,13 @@
           "secs": 10
         },
         {
+          "key": 33,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 9
+        },
+        {
           "key": 37,
           "n": 2,
           "visitors": 2,
@@ -2230,18 +2105,18 @@
           "secs": 8
         },
         {
-          "key": 59,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": 5
-        },
-        {
           "key": 60,
           "n": 2,
           "visitors": 1,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 61,
+          "n": 2,
+          "visitors": 2,
+          "home": 2,
+          "secs": null
         },
         {
           "key": 4,
@@ -2291,13 +2166,6 @@
           "visitors": 1,
           "home": 0,
           "secs": null
-        },
-        {
-          "key": 33,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 9
         },
         {
           "key": 34,
@@ -2363,13 +2231,6 @@
           "secs": 3
         },
         {
-          "key": 61,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        },
-        {
           "key": 62,
           "n": 1,
           "visitors": 1,
@@ -2380,7 +2241,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 51
+          "n": 54
         },
         {
           "key": "2",
@@ -2406,7 +2267,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 19
+          "n": 20
         },
         {
           "key": "/1/",
@@ -2465,12 +2326,12 @@
       ],
       "sources": [
         {
-          "key": "internal",
+          "key": "direct",
           "n": 54
         },
         {
-          "key": "direct",
-          "n": 51
+          "key": "internal",
+          "n": 54
         },
         {
           "key": "referral",
@@ -2507,7 +2368,11 @@
       "countries": [
         {
           "key": "US",
-          "n": 84
+          "n": 85
+        },
+        {
+          "key": "BR",
+          "n": 5
         },
         {
           "key": "GB",
@@ -2515,10 +2380,6 @@
         },
         {
           "key": "CO",
-          "n": 3
-        },
-        {
-          "key": "BR",
           "n": 3
         },
         {
@@ -2592,15 +2453,15 @@
           "n": 3
         },
         {
+          "key": "San Jose, California",
+          "n": 3
+        },
+        {
           "key": "Margate, Florida",
           "n": 2
         },
         {
           "key": "Roanoke, Indiana",
-          "n": 2
-        },
-        {
-          "key": "San Jose, California",
           "n": 2
         },
         {
@@ -2659,7 +2520,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 95
+          "n": 98
         },
         {
           "key": "mobile",
@@ -2677,7 +2538,7 @@
         },
         {
           "key": "Chrome",
-          "n": 41
+          "n": 43
         },
         {
           "key": "Safari",
@@ -2685,7 +2546,7 @@
         },
         {
           "key": "Other",
-          "n": 3
+          "n": 4
         }
       ],
       "signupsBySource": [
@@ -2725,15 +2586,15 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-22T00:31:59.805Z",
+      "to": "2026-11-22T16:29:16.389Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 109,
-        "visitors": 54,
+        "views": 112,
+        "visitors": 57,
         "signups": 1,
         "exercisesSeen": 58,
-        "days": 15,
+        "days": 16,
         "medianExercisesPerVisit": 1,
         "medianSecs": 4,
         "another": 31,
@@ -2817,6 +2678,11 @@
           "d": "2026-11-21",
           "views": 16,
           "visitors": 16
+        },
+        {
+          "d": "2026-11-22",
+          "views": 3,
+          "visitors": 3
         }
       ],
       "exercises": [
@@ -2889,6 +2755,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 59,
+          "n": 3,
+          "visitors": 3,
+          "home": 1,
+          "secs": 5
         },
         {
           "key": 2,
@@ -3017,6 +2890,13 @@
           "secs": 10
         },
         {
+          "key": 33,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 9
+        },
+        {
           "key": 37,
           "n": 2,
           "visitors": 2,
@@ -3080,18 +2960,18 @@
           "secs": 8
         },
         {
-          "key": 59,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": 5
-        },
-        {
           "key": 60,
           "n": 2,
           "visitors": 1,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 61,
+          "n": 2,
+          "visitors": 2,
+          "home": 2,
+          "secs": null
         },
         {
           "key": 4,
@@ -3141,13 +3021,6 @@
           "visitors": 1,
           "home": 0,
           "secs": null
-        },
-        {
-          "key": 33,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 9
         },
         {
           "key": 34,
@@ -3213,13 +3086,6 @@
           "secs": 3
         },
         {
-          "key": 61,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": null
-        },
-        {
           "key": 62,
           "n": 1,
           "visitors": 1,
@@ -3230,7 +3096,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 51
+          "n": 54
         },
         {
           "key": "2",
@@ -3256,7 +3122,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 19
+          "n": 20
         },
         {
           "key": "/1/",
@@ -3315,12 +3181,12 @@
       ],
       "sources": [
         {
-          "key": "internal",
+          "key": "direct",
           "n": 54
         },
         {
-          "key": "direct",
-          "n": 51
+          "key": "internal",
+          "n": 54
         },
         {
           "key": "referral",
@@ -3357,7 +3223,11 @@
       "countries": [
         {
           "key": "US",
-          "n": 84
+          "n": 85
+        },
+        {
+          "key": "BR",
+          "n": 5
         },
         {
           "key": "GB",
@@ -3365,10 +3235,6 @@
         },
         {
           "key": "CO",
-          "n": 3
-        },
-        {
-          "key": "BR",
           "n": 3
         },
         {
@@ -3442,15 +3308,15 @@
           "n": 3
         },
         {
+          "key": "San Jose, California",
+          "n": 3
+        },
+        {
           "key": "Margate, Florida",
           "n": 2
         },
         {
           "key": "Roanoke, Indiana",
-          "n": 2
-        },
-        {
-          "key": "San Jose, California",
           "n": 2
         },
         {
@@ -3509,7 +3375,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 95
+          "n": 98
         },
         {
           "key": "mobile",
@@ -3527,7 +3393,7 @@
         },
         {
           "key": "Chrome",
-          "n": 41
+          "n": 43
         },
         {
           "key": "Safari",
@@ -3535,7 +3401,7 @@
         },
         {
           "key": "Other",
-          "n": 3
+          "n": 4
         }
       ],
       "signupsBySource": [
