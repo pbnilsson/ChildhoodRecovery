@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T20:24:55.851Z",
+  "generated": "2026-11-24T04:52:46.092Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,18 +18,18 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-22T20:24:55.851Z",
-      "to": "2026-11-23T20:24:55.851Z",
+      "from": "2026-11-23T04:52:46.092Z",
+      "to": "2026-11-24T04:52:46.092Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 53,
-        "visitors": 53,
+        "views": 1,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 28,
+        "exercisesSeen": 1,
         "days": 1,
         "medianExercisesPerVisit": 1,
-        "medianSecs": 1,
+        "medianSecs": null,
         "another": 0,
         "picked": 0,
         "shares": 0,
@@ -37,46 +37,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-22T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-22T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-22T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-23T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-23T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-23T02:00:00.000Z",
-          "views": 52,
-          "visitors": 52
-        },
-        {
-          "t": "2026-11-23T03:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-23T04:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-23T05:00:00.000Z",
           "views": 0,
@@ -156,210 +116,61 @@
           "t": "2026-11-23T20:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-23T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-23T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-23T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-24T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-24T01:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-24T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-24T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-24T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
-        {
-          "key": 20,
-          "n": 3,
-          "visitors": 3,
-          "home": 1,
-          "secs": 2
-        },
-        {
-          "key": 1,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 2,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 3,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 4,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 5,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 6,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 7,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 8,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 9,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 10,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 11,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 12,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 13,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 14,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 15,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 16,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 17,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 18,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 19,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 21,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 22,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 23,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 24,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 33,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 0
-        },
         {
           "key": 38,
           "n": 1,
           "visitors": 1,
           "home": 0,
           "secs": null
-        },
-        {
-          "key": 42,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 49,
-          "n": 1,
-          "visitors": 1,
-          "home": 1,
-          "secs": 2
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 53
+          "n": 1
         },
         {
           "key": "2",
@@ -384,78 +195,26 @@
       ],
       "entries": [
         {
-          "key": "/",
-          "n": 2
-        },
-        {
-          "key": "/1/",
-          "n": 2
-        },
-        {
-          "key": "/2/",
-          "n": 2
-        },
-        {
-          "key": "/3/",
-          "n": 2
-        },
-        {
-          "key": "/4/",
-          "n": 2
-        },
-        {
-          "key": "/5/",
-          "n": 2
-        },
-        {
-          "key": "/6/",
-          "n": 2
-        },
-        {
-          "key": "/7/",
-          "n": 2
-        },
-        {
-          "key": "/8/",
-          "n": 2
-        },
-        {
-          "key": "/9/",
-          "n": 2
-        },
-        {
-          "key": "/10/",
-          "n": 2
-        },
-        {
-          "key": "/11/",
-          "n": 2
+          "key": "/38/",
+          "n": 1
         }
       ],
       "moves": [],
       "sources": [
         {
           "key": "direct",
-          "n": 53
+          "n": 1
         }
       ],
       "referrers": [],
       "campaigns": [],
       "countries": [
         {
-          "key": "FR",
-          "n": 52
-        },
-        {
           "key": "US",
           "n": 1
         }
       ],
       "cities": [
-        {
-          "key": "Paris, Île-de-France",
-          "n": 52
-        },
         {
           "key": "South Hadley, Massachusetts",
           "n": 1
@@ -464,13 +223,13 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 53
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Chrome",
-          "n": 53
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -489,16 +248,16 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-16T20:24:55.851Z",
-      "to": "2026-11-23T20:24:55.851Z",
+      "from": "2026-11-17T04:52:46.092Z",
+      "to": "2026-11-24T04:52:46.092Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 93,
-        "visitors": 93,
+        "views": 92,
+        "visitors": 92,
         "signups": 0,
         "exercisesSeen": 45,
-        "days": 7,
+        "days": 4,
         "medianExercisesPerVisit": 1,
         "medianSecs": 1,
         "another": 0,
@@ -508,21 +267,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "d": "2026-11-17",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "d": "2026-11-18",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "d": "2026-11-19",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "d": "2026-11-20",
           "views": 20,
@@ -735,13 +479,6 @@
           "secs": 1
         },
         {
-          "key": 47,
-          "n": 2,
-          "visitors": 2,
-          "home": 1,
-          "secs": 3
-        },
-        {
           "key": 28,
           "n": 1,
           "visitors": 1,
@@ -819,6 +556,13 @@
           "secs": null
         },
         {
+          "key": 47,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 3
+        },
+        {
           "key": 48,
           "n": 1,
           "visitors": 1,
@@ -864,7 +608,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 93
+          "n": 92
         },
         {
           "key": "2",
@@ -890,7 +634,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 7
+          "n": 6
         },
         {
           "key": "/1/",
@@ -941,7 +685,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 93
+          "n": 92
         }
       ],
       "referrers": [],
@@ -953,7 +697,7 @@
         },
         {
           "key": "US",
-          "n": 21
+          "n": 20
         },
         {
           "key": "BR",
@@ -1022,10 +766,6 @@
           "n": 3
         },
         {
-          "key": "Roanoke, Indiana",
-          "n": 2
-        },
-        {
           "key": "New York City, New York",
           "n": 2
         },
@@ -1092,6 +832,10 @@
         {
           "key": "Itapevi, São Paulo",
           "n": 1
+        },
+        {
+          "key": "Pekanbaru, Riau",
+          "n": 1
         }
       ],
       "devices": [
@@ -1101,7 +845,7 @@
         },
         {
           "key": "mobile",
-          "n": 2
+          "n": 1
         }
       ],
       "browsers": [
@@ -1115,7 +859,7 @@
         },
         {
           "key": "Safari",
-          "n": 2
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -1134,8 +878,8 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-24T20:24:55.851Z",
-      "to": "2026-11-23T20:24:55.851Z",
+      "from": "2026-10-25T04:52:46.092Z",
+      "to": "2026-11-24T04:52:46.092Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1998,8 +1742,8 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-23T20:24:55.851Z",
-      "to": "2026-11-23T20:24:55.851Z",
+      "from": "2025-11-24T04:52:46.092Z",
+      "to": "2026-11-24T04:52:46.092Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -2863,7 +2607,7 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-23T20:24:55.851Z",
+      "to": "2026-11-24T04:52:46.092Z",
       "available": true,
       "granularity": "day",
       "totals": {
