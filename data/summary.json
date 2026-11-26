@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T18:43:25.754Z",
+  "generated": "2026-11-26T02:57:13.327Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,15 +18,15 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-24T18:43:25.754Z",
-      "to": "2026-11-25T18:43:25.754Z",
+      "from": "2026-11-25T02:57:13.327Z",
+      "to": "2026-11-26T02:57:13.327Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 1,
-        "visitors": 1,
+        "views": 2,
+        "visitors": 2,
         "signups": 0,
-        "exercisesSeen": 1,
+        "exercisesSeen": 2,
         "days": 1,
         "medianExercisesPerVisit": 1,
         "medianSecs": null,
@@ -37,46 +37,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-24T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-24T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-24T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-24T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-24T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T02:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-25T03:00:00.000Z",
           "views": 0,
@@ -156,6 +116,46 @@
           "t": "2026-11-25T18:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-25T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-25T20:00:00.000Z",
+          "views": 1,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-25T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-25T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-25T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T01:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
@@ -165,12 +165,19 @@
           "visitors": 1,
           "home": 0,
           "secs": null
+        },
+        {
+          "key": 50,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 1
+          "n": 2
         },
         {
           "key": "2",
@@ -197,13 +204,17 @@
         {
           "key": "/27/",
           "n": 1
+        },
+        {
+          "key": "/50/",
+          "n": 1
         }
       ],
       "moves": [],
       "sources": [
         {
           "key": "direct",
-          "n": 1
+          "n": 2
         }
       ],
       "referrers": [],
@@ -211,25 +222,29 @@
       "countries": [
         {
           "key": "US",
-          "n": 1
+          "n": 2
         }
       ],
       "cities": [
         {
           "key": "Homestead, Florida",
           "n": 1
+        },
+        {
+          "key": "Philadelphia, Pennsylvania",
+          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 1
+          "n": 2
         }
       ],
       "browsers": [
         {
           "key": "Chrome",
-          "n": 1
+          "n": 2
         }
       ],
       "signupsBySource": [],
@@ -248,15 +263,15 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-18T18:43:25.754Z",
-      "to": "2026-11-25T18:43:25.754Z",
+      "from": "2026-11-19T02:57:13.327Z",
+      "to": "2026-11-26T02:57:13.327Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 93,
-        "visitors": 93,
+        "views": 94,
+        "visitors": 94,
         "signups": 0,
-        "exercisesSeen": 46,
+        "exercisesSeen": 47,
         "days": 6,
         "medianExercisesPerVisit": 1,
         "medianSecs": 1,
@@ -294,8 +309,8 @@
         },
         {
           "d": "2026-11-25",
-          "views": 1,
-          "visitors": 1
+          "views": 2,
+          "visitors": 2
         }
       ],
       "exercises": [
@@ -594,6 +609,13 @@
           "secs": 2
         },
         {
+          "key": 50,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
           "key": 51,
           "n": 1,
           "visitors": 1,
@@ -625,7 +647,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 93
+          "n": 94
         },
         {
           "key": "2",
@@ -702,7 +724,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 93
+          "n": 94
         }
       ],
       "referrers": [],
@@ -714,7 +736,7 @@
         },
         {
           "key": "US",
-          "n": 21
+          "n": 22
         },
         {
           "key": "BR",
@@ -781,6 +803,10 @@
         {
           "key": "San Jose, California",
           "n": 3
+        },
+        {
+          "key": "Philadelphia, Pennsylvania",
+          "n": 2
         },
         {
           "key": "New York City, New York",
@@ -835,10 +861,6 @@
           "n": 1
         },
         {
-          "key": "Philadelphia, Pennsylvania",
-          "n": 1
-        },
-        {
           "key": "Cayambe, Pichincha",
           "n": 1
         },
@@ -858,7 +880,7 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 92
+          "n": 93
         },
         {
           "key": "mobile",
@@ -868,7 +890,7 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 89
+          "n": 90
         },
         {
           "key": "Other",
@@ -895,15 +917,15 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-26T18:43:25.754Z",
-      "to": "2026-11-25T18:43:25.754Z",
+      "from": "2026-10-27T02:57:13.327Z",
+      "to": "2026-11-26T02:57:13.327Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 166,
-        "visitors": 111,
+        "views": 167,
+        "visitors": 112,
         "signups": 1,
-        "exercisesSeen": 58,
+        "exercisesSeen": 59,
         "days": 19,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
@@ -1006,8 +1028,8 @@
         },
         {
           "d": "2026-11-25",
-          "views": 1,
-          "visitors": 1
+          "views": 2,
+          "visitors": 2
         }
       ],
       "exercises": [
@@ -1397,6 +1419,13 @@
           "secs": null
         },
         {
+          "key": 50,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
           "key": 55,
           "n": 1,
           "visitors": 1,
@@ -1421,7 +1450,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 108
+          "n": 109
         },
         {
           "key": "2",
@@ -1507,7 +1536,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 108
+          "n": 109
         },
         {
           "key": "internal",
@@ -1548,7 +1577,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 87
+          "n": 88
         },
         {
           "key": "FR",
@@ -1653,6 +1682,10 @@
           "n": 2
         },
         {
+          "key": "Philadelphia, Pennsylvania",
+          "n": 2
+        },
+        {
           "key": "Bogotá, Bogota D.C.",
           "n": 2
         },
@@ -1695,16 +1728,12 @@
         {
           "key": "Mountain View, California",
           "n": 1
-        },
-        {
-          "key": "Zürich, Zurich",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 152
+          "n": 153
         },
         {
           "key": "mobile",
@@ -1718,7 +1747,7 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 97
+          "n": 98
         },
         {
           "key": "Firefox",
@@ -1769,15 +1798,15 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-25T18:43:25.754Z",
-      "to": "2026-11-25T18:43:25.754Z",
+      "from": "2025-11-26T02:57:13.327Z",
+      "to": "2026-11-26T02:57:13.327Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 166,
-        "visitors": 111,
+        "views": 167,
+        "visitors": 112,
         "signups": 1,
-        "exercisesSeen": 58,
+        "exercisesSeen": 59,
         "days": 19,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
@@ -1880,8 +1909,8 @@
         },
         {
           "d": "2026-11-25",
-          "views": 1,
-          "visitors": 1
+          "views": 2,
+          "visitors": 2
         }
       ],
       "exercises": [
@@ -2271,6 +2300,13 @@
           "secs": null
         },
         {
+          "key": 50,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
           "key": 55,
           "n": 1,
           "visitors": 1,
@@ -2295,7 +2331,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 108
+          "n": 109
         },
         {
           "key": "2",
@@ -2381,7 +2417,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 108
+          "n": 109
         },
         {
           "key": "internal",
@@ -2422,7 +2458,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 87
+          "n": 88
         },
         {
           "key": "FR",
@@ -2527,6 +2563,10 @@
           "n": 2
         },
         {
+          "key": "Philadelphia, Pennsylvania",
+          "n": 2
+        },
+        {
           "key": "Bogotá, Bogota D.C.",
           "n": 2
         },
@@ -2569,16 +2609,12 @@
         {
           "key": "Mountain View, California",
           "n": 1
-        },
-        {
-          "key": "Zürich, Zurich",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 152
+          "n": 153
         },
         {
           "key": "mobile",
@@ -2592,7 +2628,7 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 97
+          "n": 98
         },
         {
           "key": "Firefox",
@@ -2644,14 +2680,14 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-25T18:43:25.754Z",
+      "to": "2026-11-26T02:57:13.327Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 166,
-        "visitors": 111,
+        "views": 167,
+        "visitors": 112,
         "signups": 1,
-        "exercisesSeen": 58,
+        "exercisesSeen": 59,
         "days": 19,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
@@ -2754,8 +2790,8 @@
         },
         {
           "d": "2026-11-25",
-          "views": 1,
-          "visitors": 1
+          "views": 2,
+          "visitors": 2
         }
       ],
       "exercises": [
@@ -3145,6 +3181,13 @@
           "secs": null
         },
         {
+          "key": 50,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": null
+        },
+        {
           "key": 55,
           "n": 1,
           "visitors": 1,
@@ -3169,7 +3212,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 108
+          "n": 109
         },
         {
           "key": "2",
@@ -3255,7 +3298,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 108
+          "n": 109
         },
         {
           "key": "internal",
@@ -3296,7 +3339,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 87
+          "n": 88
         },
         {
           "key": "FR",
@@ -3401,6 +3444,10 @@
           "n": 2
         },
         {
+          "key": "Philadelphia, Pennsylvania",
+          "n": 2
+        },
+        {
           "key": "Bogotá, Bogota D.C.",
           "n": 2
         },
@@ -3443,16 +3490,12 @@
         {
           "key": "Mountain View, California",
           "n": 1
-        },
-        {
-          "key": "Zürich, Zurich",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 152
+          "n": 153
         },
         {
           "key": "mobile",
@@ -3466,7 +3509,7 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 97
+          "n": 98
         },
         {
           "key": "Firefox",
