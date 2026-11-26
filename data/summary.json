@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T02:57:13.327Z",
+  "generated": "2026-11-26T18:31:15.922Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -11,22 +11,22 @@
   "total": 62,
   "span": {
     "first": "2026-11-07T10:46:54.718Z",
-    "days": 19
+    "days": 20
   },
   "ranges": {
     "24h": {
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-25T02:57:13.327Z",
-      "to": "2026-11-26T02:57:13.327Z",
+      "from": "2026-11-25T18:31:15.922Z",
+      "to": "2026-11-26T18:31:15.922Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 2,
-        "visitors": 2,
+        "views": 1,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 2,
+        "exercisesSeen": 1,
         "days": 1,
         "medianExercisesPerVisit": 1,
         "medianSecs": null,
@@ -37,86 +37,6 @@
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-25T03:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T04:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T05:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T06:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T07:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T08:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T09:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T10:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T11:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T12:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T13:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T14:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T15:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T16:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-25T17:00:00.000Z",
-          "views": 1,
-          "visitors": 1
-        },
-        {
-          "t": "2026-11-25T18:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-25T19:00:00.000Z",
           "views": 0,
@@ -156,16 +76,89 @@
           "t": "2026-11-26T02:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-26T03:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T04:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T05:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T06:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T07:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T08:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T09:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T10:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T11:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T12:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T13:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T14:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T15:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T16:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T17:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-26T18:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
-        {
-          "key": 27,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
         {
           "key": 50,
           "n": 1,
@@ -177,7 +170,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 1
         },
         {
           "key": "2",
@@ -202,10 +195,6 @@
       ],
       "entries": [
         {
-          "key": "/27/",
-          "n": 1
-        },
-        {
           "key": "/50/",
           "n": 1
         }
@@ -214,7 +203,7 @@
       "sources": [
         {
           "key": "direct",
-          "n": 2
+          "n": 1
         }
       ],
       "referrers": [],
@@ -222,14 +211,10 @@
       "countries": [
         {
           "key": "US",
-          "n": 2
+          "n": 1
         }
       ],
       "cities": [
-        {
-          "key": "Homestead, Florida",
-          "n": 1
-        },
         {
           "key": "Philadelphia, Pennsylvania",
           "n": 1
@@ -238,13 +223,13 @@
       "devices": [
         {
           "key": "desktop",
-          "n": 2
+          "n": 1
         }
       ],
       "browsers": [
         {
           "key": "Chrome",
-          "n": 2
+          "n": 1
         }
       ],
       "signupsBySource": [],
@@ -263,8 +248,8 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-19T02:57:13.327Z",
-      "to": "2026-11-26T02:57:13.327Z",
+      "from": "2026-11-19T18:31:15.922Z",
+      "to": "2026-11-26T18:31:15.922Z",
       "available": true,
       "granularity": "day",
       "totals": {
@@ -917,8 +902,8 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-27T02:57:13.327Z",
-      "to": "2026-11-26T02:57:13.327Z",
+      "from": "2026-10-27T18:31:15.922Z",
+      "to": "2026-11-26T18:31:15.922Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -1798,8 +1783,8 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-26T02:57:13.327Z",
-      "to": "2026-11-26T02:57:13.327Z",
+      "from": "2025-11-26T18:31:15.922Z",
+      "to": "2026-11-26T18:31:15.922Z",
       "available": false,
       "granularity": "day",
       "totals": {
@@ -2680,7 +2665,7 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-26T02:57:13.327Z",
+      "to": "2026-11-26T18:31:15.922Z",
       "available": true,
       "granularity": "day",
       "totals": {
