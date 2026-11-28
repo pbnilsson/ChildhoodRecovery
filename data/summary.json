@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T18:19:01.162Z",
+  "generated": "2026-11-28T02:50:12.927Z",
   "defaultRange": "all",
   "order": [
     "24h",
@@ -18,65 +18,25 @@
       "key": "24h",
       "label": "Last 24 hours",
       "short": "24h",
-      "from": "2026-11-26T18:19:01.162Z",
-      "to": "2026-11-27T18:19:01.162Z",
+      "from": "2026-11-27T02:50:12.927Z",
+      "to": "2026-11-28T02:50:12.927Z",
       "available": true,
       "granularity": "hour",
       "totals": {
-        "views": 2,
-        "visitors": 2,
+        "views": 7,
+        "visitors": 1,
         "signups": 0,
-        "exercisesSeen": 2,
+        "exercisesSeen": 7,
         "days": 1,
-        "medianExercisesPerVisit": 1,
-        "medianSecs": 11,
-        "another": 0,
-        "picked": 0,
+        "medianExercisesPerVisit": 7,
+        "medianSecs": 20,
+        "another": 1,
+        "picked": 5,
         "shares": 0,
         "sharePresses": 0,
         "instagram": 0
       },
       "series": [
-        {
-          "t": "2026-11-26T19:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-26T20:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-26T21:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-26T22:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-26T23:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-27T00:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-27T01:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
-        {
-          "t": "2026-11-27T02:00:00.000Z",
-          "views": 0,
-          "visitors": 0
-        },
         {
           "t": "2026-11-27T03:00:00.000Z",
           "views": 0,
@@ -156,28 +116,103 @@
           "t": "2026-11-27T18:00:00.000Z",
           "views": 0,
           "visitors": 0
+        },
+        {
+          "t": "2026-11-27T19:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-27T20:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-27T21:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-27T22:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-27T23:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-28T00:00:00.000Z",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "t": "2026-11-28T01:00:00.000Z",
+          "views": 7,
+          "visitors": 1
+        },
+        {
+          "t": "2026-11-28T02:00:00.000Z",
+          "views": 0,
+          "visitors": 0
         }
       ],
       "exercises": [
         {
-          "key": 47,
+          "key": 1,
           "n": 1,
           "visitors": 1,
-          "home": 1,
-          "secs": null
+          "home": 0,
+          "secs": 20
         },
         {
-          "key": 55,
+          "key": 2,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 60
+        },
+        {
+          "key": 19,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 43
+        },
+        {
+          "key": 21,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 4
+        },
+        {
+          "key": 32,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 38
+        },
+        {
+          "key": 40,
           "n": 1,
           "visitors": 1,
           "home": 1,
-          "secs": 11
+          "secs": 10
+        },
+        {
+          "key": 57,
+          "n": 1,
+          "visitors": 1,
+          "home": 0,
+          "secs": 5
         }
       ],
       "readDepth": [
         {
           "key": "1",
-          "n": 2
+          "n": 0
         },
         {
           "key": "2",
@@ -193,7 +228,7 @@
         },
         {
           "key": "6–10",
-          "n": 0
+          "n": 1
         },
         {
           "key": "11+",
@@ -203,48 +238,62 @@
       "entries": [
         {
           "key": "/",
-          "n": 2
+          "n": 1
         }
       ],
-      "moves": [],
+      "moves": [
+        {
+          "key": "list",
+          "n": 5
+        },
+        {
+          "key": "another",
+          "n": 1
+        }
+      ],
       "sources": [
         {
-          "key": "direct",
-          "n": 2
+          "key": "internal",
+          "n": 6
+        },
+        {
+          "key": "referral",
+          "n": 1
         }
       ],
-      "referrers": [],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 6
+        },
+        {
+          "key": "peternilsson.us",
+          "n": 1
+        }
+      ],
       "campaigns": [],
       "countries": [
         {
           "key": "US",
-          "n": 1
-        },
-        {
-          "key": "GB",
-          "n": 1
+          "n": 7
         }
       ],
       "cities": [
         {
-          "key": "Council Bluffs, Iowa",
-          "n": 1
-        },
-        {
-          "key": "Manchester, England",
-          "n": 1
+          "key": "Portland, Maine",
+          "n": 7
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 2
+          "n": 7
         }
       ],
       "browsers": [
         {
-          "key": "Chrome",
-          "n": 2
+          "key": "Safari",
+          "n": 7
         }
       ],
       "signupsBySource": [],
@@ -263,34 +312,29 @@
       "key": "week",
       "label": "Last week",
       "short": "Week",
-      "from": "2026-11-20T18:19:01.162Z",
-      "to": "2026-11-27T18:19:01.162Z",
+      "from": "2026-11-21T02:50:12.927Z",
+      "to": "2026-11-28T02:50:12.927Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 83,
-        "visitors": 83,
+        "views": 81,
+        "visitors": 75,
         "signups": 0,
-        "exercisesSeen": 44,
-        "days": 7,
+        "exercisesSeen": 42,
+        "days": 8,
         "medianExercisesPerVisit": 1,
         "medianSecs": 1,
-        "another": 0,
-        "picked": 0,
+        "another": 1,
+        "picked": 5,
         "shares": 0,
         "sharePresses": 0,
         "instagram": 0
       },
       "series": [
         {
-          "d": "2026-11-20",
-          "views": 7,
-          "visitors": 7
-        },
-        {
           "d": "2026-11-21",
-          "views": 16,
-          "visitors": 16
+          "views": 14,
+          "visitors": 14
         },
         {
           "d": "2026-11-22",
@@ -316,6 +360,16 @@
           "d": "2026-11-26",
           "views": 2,
           "visitors": 2
+        },
+        {
+          "d": "2026-11-27",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "d": "2026-11-28",
+          "views": 7,
+          "visitors": 1
         }
       ],
       "exercises": [
@@ -334,7 +388,7 @@
           "secs": 1
         },
         {
-          "key": 3,
+          "key": 2,
           "n": 3,
           "visitors": 3,
           "home": 0,
@@ -355,25 +409,11 @@
           "secs": 1
         },
         {
-          "key": 8,
-          "n": 3,
-          "visitors": 3,
-          "home": 0,
-          "secs": 1
-        },
-        {
           "key": 10,
           "n": 3,
           "visitors": 3,
           "home": 0,
           "secs": 2
-        },
-        {
-          "key": 11,
-          "n": 3,
-          "visitors": 3,
-          "home": 0,
-          "secs": 1
         },
         {
           "key": 12,
@@ -383,25 +423,18 @@
           "secs": 1
         },
         {
-          "key": 13,
-          "n": 3,
-          "visitors": 3,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 15,
-          "n": 3,
-          "visitors": 3,
-          "home": 0,
-          "secs": 2
-        },
-        {
           "key": 18,
           "n": 3,
           "visitors": 3,
           "home": 0,
           "secs": 1
+        },
+        {
+          "key": 19,
+          "n": 3,
+          "visitors": 3,
+          "home": 0,
+          "secs": 2
         },
         {
           "key": 20,
@@ -411,7 +444,14 @@
           "secs": 2
         },
         {
-          "key": 2,
+          "key": 21,
+          "n": 3,
+          "visitors": 3,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 3,
           "n": 2,
           "visitors": 2,
           "home": 0,
@@ -432,11 +472,39 @@
           "secs": 2
         },
         {
+          "key": 8,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 1
+        },
+        {
           "key": 9,
           "n": 2,
           "visitors": 2,
           "home": 0,
           "secs": 1
+        },
+        {
+          "key": 11,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 1
+        },
+        {
+          "key": 13,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 15,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 2
         },
         {
           "key": 16,
@@ -447,20 +515,6 @@
         },
         {
           "key": 17,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 1
-        },
-        {
-          "key": 19,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 2
-        },
-        {
-          "key": 21,
           "n": 2,
           "visitors": 2,
           "home": 0,
@@ -495,6 +549,20 @@
           "secs": 0
         },
         {
+          "key": 40,
+          "n": 2,
+          "visitors": 2,
+          "home": 1,
+          "secs": 10
+        },
+        {
+          "key": 57,
+          "n": 2,
+          "visitors": 2,
+          "home": 0,
+          "secs": 5
+        },
+        {
           "key": 27,
           "n": 1,
           "visitors": 1,
@@ -502,25 +570,11 @@
           "secs": null
         },
         {
-          "key": 28,
+          "key": 32,
           "n": 1,
           "visitors": 1,
           "home": 0,
-          "secs": null
-        },
-        {
-          "key": 31,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 34,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
+          "secs": 38
         },
         {
           "key": 35,
@@ -538,13 +592,6 @@
         },
         {
           "key": 38,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
-          "key": 40,
           "n": 1,
           "visitors": 1,
           "home": 0,
@@ -607,13 +654,6 @@
           "secs": 11
         },
         {
-          "key": 57,
-          "n": 1,
-          "visitors": 1,
-          "home": 0,
-          "secs": null
-        },
-        {
           "key": 59,
           "n": 1,
           "visitors": 1,
@@ -631,7 +671,7 @@
       "readDepth": [
         {
           "key": "1",
-          "n": 83
+          "n": 74
         },
         {
           "key": "2",
@@ -647,7 +687,7 @@
         },
         {
           "key": "6–10",
-          "n": 0
+          "n": 1
         },
         {
           "key": "11+",
@@ -657,31 +697,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 6
-        },
-        {
-          "key": "/13/",
-          "n": 3
-        },
-        {
-          "key": "/1/",
-          "n": 3
-        },
-        {
-          "key": "/15/",
-          "n": 3
-        },
-        {
-          "key": "/3/",
-          "n": 3
-        },
-        {
-          "key": "/8/",
-          "n": 3
-        },
-        {
-          "key": "/11/",
-          "n": 3
+          "n": 7
         },
         {
           "key": "/14/",
@@ -702,16 +718,66 @@
         {
           "key": "/7/",
           "n": 3
+        },
+        {
+          "key": "/5/",
+          "n": 3
+        },
+        {
+          "key": "/33/",
+          "n": 2
+        },
+        {
+          "key": "/1/",
+          "n": 2
+        },
+        {
+          "key": "/2/",
+          "n": 2
+        },
+        {
+          "key": "/3/",
+          "n": 2
+        },
+        {
+          "key": "/4/",
+          "n": 2
         }
       ],
-      "moves": [],
+      "moves": [
+        {
+          "key": "list",
+          "n": 5
+        },
+        {
+          "key": "another",
+          "n": 1
+        }
+      ],
       "sources": [
         {
           "key": "direct",
-          "n": 83
+          "n": 74
+        },
+        {
+          "key": "internal",
+          "n": 6
+        },
+        {
+          "key": "referral",
+          "n": 1
         }
       ],
-      "referrers": [],
+      "referrers": [
+        {
+          "key": "exercisesfortherecoveryofchildhood.com",
+          "n": 6
+        },
+        {
+          "key": "peternilsson.us",
+          "n": 1
+        }
+      ],
       "campaigns": [],
       "countries": [
         {
@@ -720,31 +786,15 @@
         },
         {
           "key": "US",
-          "n": 16
+          "n": 19
         },
         {
           "key": "BR",
-          "n": 4
-        },
-        {
-          "key": "GB",
-          "n": 2
+          "n": 3
         },
         {
           "key": "CO",
           "n": 2
-        },
-        {
-          "key": "EC",
-          "n": 1
-        },
-        {
-          "key": "BO",
-          "n": 1
-        },
-        {
-          "key": "ID",
-          "n": 1
         },
         {
           "key": "ES",
@@ -761,6 +811,10 @@
         {
           "key": "SV",
           "n": 1
+        },
+        {
+          "key": "GB",
+          "n": 1
         }
       ],
       "cities": [
@@ -769,44 +823,12 @@
           "n": 52
         },
         {
-          "key": "Philadelphia, Pennsylvania",
-          "n": 2
-        },
-        {
-          "key": "New York City, New York",
-          "n": 2
+          "key": "Portland, Maine",
+          "n": 7
         },
         {
           "key": "Bogotá, Bogota D.C.",
           "n": 2
-        },
-        {
-          "key": "Cayambe, Pichincha",
-          "n": 1
-        },
-        {
-          "key": "La Paz, La Paz Department",
-          "n": 1
-        },
-        {
-          "key": "Itapevi, São Paulo",
-          "n": 1
-        },
-        {
-          "key": "Pekanbaru, Riau",
-          "n": 1
-        },
-        {
-          "key": "London, England",
-          "n": 1
-        },
-        {
-          "key": "Freeport, New York",
-          "n": 1
-        },
-        {
-          "key": "Greensboro, North Carolina",
-          "n": 1
         },
         {
           "key": "Roanoke, Indiana",
@@ -822,6 +844,10 @@
         },
         {
           "key": "Suva Reka, Komuna e Thërandës",
+          "n": 1
+        },
+        {
+          "key": "New York City, New York",
           "n": 1
         },
         {
@@ -843,12 +869,40 @@
         {
           "key": "Knoxville, Tennessee",
           "n": 1
+        },
+        {
+          "key": "San Salvador, San Salvador Department",
+          "n": 1
+        },
+        {
+          "key": "Palm Bay, Florida",
+          "n": 1
+        },
+        {
+          "key": "Goiânia, Goiás",
+          "n": 1
+        },
+        {
+          "key": "Americana, São Paulo",
+          "n": 1
+        },
+        {
+          "key": "San Jose, California",
+          "n": 1
+        },
+        {
+          "key": "South Hadley, Massachusetts",
+          "n": 1
+        },
+        {
+          "key": "Homestead, Florida",
+          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 82
+          "n": 80
         },
         {
           "key": "mobile",
@@ -858,11 +912,11 @@
       "browsers": [
         {
           "key": "Chrome",
-          "n": 81
+          "n": 72
         },
         {
           "key": "Safari",
-          "n": 1
+          "n": 8
         },
         {
           "key": "Other",
@@ -885,20 +939,20 @@
       "key": "month",
       "label": "Last month",
       "short": "Month",
-      "from": "2026-10-28T18:19:01.162Z",
-      "to": "2026-11-27T18:19:01.162Z",
+      "from": "2026-10-29T02:50:12.927Z",
+      "to": "2026-11-28T02:50:12.927Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 169,
-        "visitors": 114,
+        "views": 176,
+        "visitors": 115,
         "signups": 1,
         "exercisesSeen": 59,
-        "days": 20,
+        "days": 22,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
-        "another": 31,
-        "picked": 23,
+        "another": 32,
+        "picked": 28,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -1003,15 +1057,39 @@
           "d": "2026-11-26",
           "views": 2,
           "visitors": 2
+        },
+        {
+          "d": "2026-11-27",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "d": "2026-11-28",
+          "views": 7,
+          "visitors": 1
         }
       ],
       "exercises": [
         {
           "key": 1,
+          "n": 6,
+          "visitors": 6,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 40,
+          "n": 6,
+          "visitors": 5,
+          "home": 3,
+          "secs": 10
+        },
+        {
+          "key": 2,
           "n": 5,
           "visitors": 5,
-          "home": 0,
-          "secs": 1
+          "home": 1,
+          "secs": 12
         },
         {
           "key": 3,
@@ -1049,22 +1127,22 @@
           "secs": 1
         },
         {
+          "key": 19,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 21,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 3
+        },
+        {
           "key": 24,
           "n": 5,
-          "visitors": 4,
-          "home": 1,
-          "secs": 7
-        },
-        {
-          "key": 40,
-          "n": 5,
-          "visitors": 4,
-          "home": 2,
-          "secs": 8
-        },
-        {
-          "key": 2,
-          "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 7
@@ -1126,25 +1204,11 @@
           "secs": 1
         },
         {
-          "key": 19,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 2
-        },
-        {
           "key": 20,
           "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 2
-        },
-        {
-          "key": 21,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 1
         },
         {
           "key": 22,
@@ -1182,6 +1246,13 @@
           "secs": 1
         },
         {
+          "key": 32,
+          "n": 3,
+          "visitors": 3,
+          "home": 2,
+          "secs": 24
+        },
+        {
           "key": 33,
           "n": 3,
           "visitors": 3,
@@ -1215,6 +1286,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 57,
+          "n": 3,
+          "visitors": 3,
+          "home": 0,
+          "secs": 7
         },
         {
           "key": 59,
@@ -1257,13 +1335,6 @@
           "visitors": 2,
           "home": 0,
           "secs": 9
-        },
-        {
-          "key": 32,
-          "n": 2,
-          "visitors": 2,
-          "home": 2,
-          "secs": 10
         },
         {
           "key": 37,
@@ -1327,13 +1398,6 @@
           "visitors": 2,
           "home": 1,
           "secs": 15
-        },
-        {
-          "key": 57,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 8
         },
         {
           "key": 60,
@@ -1439,7 +1503,7 @@
         },
         {
           "key": "6–10",
-          "n": 0
+          "n": 1
         },
         {
           "key": "11+",
@@ -1449,7 +1513,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 24
+          "n": 25
         },
         {
           "key": "/1/",
@@ -1499,11 +1563,11 @@
       "moves": [
         {
           "key": "another",
-          "n": 31
+          "n": 32
         },
         {
           "key": "list",
-          "n": 23
+          "n": 28
         }
       ],
       "sources": [
@@ -1513,11 +1577,11 @@
         },
         {
           "key": "internal",
-          "n": 54
+          "n": 60
         },
         {
           "key": "referral",
-          "n": 2
+          "n": 3
         },
         {
           "key": "social",
@@ -1531,11 +1595,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 54
+          "n": 60
         },
         {
           "key": "peternilsson.us",
-          "n": 2
+          "n": 3
         },
         {
           "key": "facebook.com",
@@ -1550,7 +1614,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 89
+          "n": 96
         },
         {
           "key": "FR",
@@ -1631,6 +1695,10 @@
           "n": 51
         },
         {
+          "key": "Portland, Maine",
+          "n": 7
+        },
+        {
           "key": "Miami, Florida",
           "n": 5
         },
@@ -1697,16 +1765,12 @@
         {
           "key": "San Antonio, Texas",
           "n": 1
-        },
-        {
-          "key": "Mountain View, California",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 155
+          "n": 162
         },
         {
           "key": "mobile",
@@ -1728,7 +1792,7 @@
         },
         {
           "key": "Safari",
-          "n": 14
+          "n": 21
         },
         {
           "key": "Other",
@@ -1771,20 +1835,20 @@
       "key": "year",
       "label": "Last year",
       "short": "Year",
-      "from": "2025-11-27T18:19:01.162Z",
-      "to": "2026-11-27T18:19:01.162Z",
+      "from": "2025-11-28T02:50:12.927Z",
+      "to": "2026-11-28T02:50:12.927Z",
       "available": false,
       "granularity": "day",
       "totals": {
-        "views": 169,
-        "visitors": 114,
+        "views": 176,
+        "visitors": 115,
         "signups": 1,
         "exercisesSeen": 59,
-        "days": 20,
+        "days": 22,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
-        "another": 31,
-        "picked": 23,
+        "another": 32,
+        "picked": 28,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -1889,15 +1953,39 @@
           "d": "2026-11-26",
           "views": 2,
           "visitors": 2
+        },
+        {
+          "d": "2026-11-27",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "d": "2026-11-28",
+          "views": 7,
+          "visitors": 1
         }
       ],
       "exercises": [
         {
           "key": 1,
+          "n": 6,
+          "visitors": 6,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 40,
+          "n": 6,
+          "visitors": 5,
+          "home": 3,
+          "secs": 10
+        },
+        {
+          "key": 2,
           "n": 5,
           "visitors": 5,
-          "home": 0,
-          "secs": 1
+          "home": 1,
+          "secs": 12
         },
         {
           "key": 3,
@@ -1935,22 +2023,22 @@
           "secs": 1
         },
         {
+          "key": 19,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 21,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 3
+        },
+        {
           "key": 24,
           "n": 5,
-          "visitors": 4,
-          "home": 1,
-          "secs": 7
-        },
-        {
-          "key": 40,
-          "n": 5,
-          "visitors": 4,
-          "home": 2,
-          "secs": 8
-        },
-        {
-          "key": 2,
-          "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 7
@@ -2012,25 +2100,11 @@
           "secs": 1
         },
         {
-          "key": 19,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 2
-        },
-        {
           "key": 20,
           "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 2
-        },
-        {
-          "key": 21,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 1
         },
         {
           "key": 22,
@@ -2068,6 +2142,13 @@
           "secs": 1
         },
         {
+          "key": 32,
+          "n": 3,
+          "visitors": 3,
+          "home": 2,
+          "secs": 24
+        },
+        {
           "key": 33,
           "n": 3,
           "visitors": 3,
@@ -2101,6 +2182,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 57,
+          "n": 3,
+          "visitors": 3,
+          "home": 0,
+          "secs": 7
         },
         {
           "key": 59,
@@ -2143,13 +2231,6 @@
           "visitors": 2,
           "home": 0,
           "secs": 9
-        },
-        {
-          "key": 32,
-          "n": 2,
-          "visitors": 2,
-          "home": 2,
-          "secs": 10
         },
         {
           "key": 37,
@@ -2213,13 +2294,6 @@
           "visitors": 2,
           "home": 1,
           "secs": 15
-        },
-        {
-          "key": 57,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 8
         },
         {
           "key": 60,
@@ -2325,7 +2399,7 @@
         },
         {
           "key": "6–10",
-          "n": 0
+          "n": 1
         },
         {
           "key": "11+",
@@ -2335,7 +2409,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 24
+          "n": 25
         },
         {
           "key": "/1/",
@@ -2385,11 +2459,11 @@
       "moves": [
         {
           "key": "another",
-          "n": 31
+          "n": 32
         },
         {
           "key": "list",
-          "n": 23
+          "n": 28
         }
       ],
       "sources": [
@@ -2399,11 +2473,11 @@
         },
         {
           "key": "internal",
-          "n": 54
+          "n": 60
         },
         {
           "key": "referral",
-          "n": 2
+          "n": 3
         },
         {
           "key": "social",
@@ -2417,11 +2491,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 54
+          "n": 60
         },
         {
           "key": "peternilsson.us",
-          "n": 2
+          "n": 3
         },
         {
           "key": "facebook.com",
@@ -2436,7 +2510,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 89
+          "n": 96
         },
         {
           "key": "FR",
@@ -2517,6 +2591,10 @@
           "n": 51
         },
         {
+          "key": "Portland, Maine",
+          "n": 7
+        },
+        {
           "key": "Miami, Florida",
           "n": 5
         },
@@ -2583,16 +2661,12 @@
         {
           "key": "San Antonio, Texas",
           "n": 1
-        },
-        {
-          "key": "Mountain View, California",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 155
+          "n": 162
         },
         {
           "key": "mobile",
@@ -2614,7 +2688,7 @@
         },
         {
           "key": "Safari",
-          "n": 14
+          "n": 21
         },
         {
           "key": "Other",
@@ -2658,19 +2732,19 @@
       "label": "All time",
       "short": "All",
       "from": "2026-11-07T10:46:54.718Z",
-      "to": "2026-11-27T18:19:01.162Z",
+      "to": "2026-11-28T02:50:12.927Z",
       "available": true,
       "granularity": "day",
       "totals": {
-        "views": 169,
-        "visitors": 114,
+        "views": 176,
+        "visitors": 115,
         "signups": 1,
         "exercisesSeen": 59,
-        "days": 20,
+        "days": 22,
         "medianExercisesPerVisit": 1,
         "medianSecs": 2,
-        "another": 31,
-        "picked": 23,
+        "another": 32,
+        "picked": 28,
         "shares": 0,
         "sharePresses": 1,
         "instagram": 1
@@ -2775,15 +2849,39 @@
           "d": "2026-11-26",
           "views": 2,
           "visitors": 2
+        },
+        {
+          "d": "2026-11-27",
+          "views": 0,
+          "visitors": 0
+        },
+        {
+          "d": "2026-11-28",
+          "views": 7,
+          "visitors": 1
         }
       ],
       "exercises": [
         {
           "key": 1,
+          "n": 6,
+          "visitors": 6,
+          "home": 0,
+          "secs": 3
+        },
+        {
+          "key": 40,
+          "n": 6,
+          "visitors": 5,
+          "home": 3,
+          "secs": 10
+        },
+        {
+          "key": 2,
           "n": 5,
           "visitors": 5,
-          "home": 0,
-          "secs": 1
+          "home": 1,
+          "secs": 12
         },
         {
           "key": 3,
@@ -2821,22 +2919,22 @@
           "secs": 1
         },
         {
+          "key": 19,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 2
+        },
+        {
+          "key": 21,
+          "n": 5,
+          "visitors": 5,
+          "home": 0,
+          "secs": 3
+        },
+        {
           "key": 24,
           "n": 5,
-          "visitors": 4,
-          "home": 1,
-          "secs": 7
-        },
-        {
-          "key": 40,
-          "n": 5,
-          "visitors": 4,
-          "home": 2,
-          "secs": 8
-        },
-        {
-          "key": 2,
-          "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 7
@@ -2898,25 +2996,11 @@
           "secs": 1
         },
         {
-          "key": 19,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 2
-        },
-        {
           "key": 20,
           "n": 4,
           "visitors": 4,
           "home": 1,
           "secs": 2
-        },
-        {
-          "key": 21,
-          "n": 4,
-          "visitors": 4,
-          "home": 0,
-          "secs": 1
         },
         {
           "key": 22,
@@ -2954,6 +3038,13 @@
           "secs": 1
         },
         {
+          "key": 32,
+          "n": 3,
+          "visitors": 3,
+          "home": 2,
+          "secs": 24
+        },
+        {
           "key": 33,
           "n": 3,
           "visitors": 3,
@@ -2987,6 +3078,13 @@
           "visitors": 2,
           "home": 0,
           "secs": 2
+        },
+        {
+          "key": 57,
+          "n": 3,
+          "visitors": 3,
+          "home": 0,
+          "secs": 7
         },
         {
           "key": 59,
@@ -3029,13 +3127,6 @@
           "visitors": 2,
           "home": 0,
           "secs": 9
-        },
-        {
-          "key": 32,
-          "n": 2,
-          "visitors": 2,
-          "home": 2,
-          "secs": 10
         },
         {
           "key": 37,
@@ -3099,13 +3190,6 @@
           "visitors": 2,
           "home": 1,
           "secs": 15
-        },
-        {
-          "key": 57,
-          "n": 2,
-          "visitors": 2,
-          "home": 0,
-          "secs": 8
         },
         {
           "key": 60,
@@ -3211,7 +3295,7 @@
         },
         {
           "key": "6–10",
-          "n": 0
+          "n": 1
         },
         {
           "key": "11+",
@@ -3221,7 +3305,7 @@
       "entries": [
         {
           "key": "/",
-          "n": 24
+          "n": 25
         },
         {
           "key": "/1/",
@@ -3271,11 +3355,11 @@
       "moves": [
         {
           "key": "another",
-          "n": 31
+          "n": 32
         },
         {
           "key": "list",
-          "n": 23
+          "n": 28
         }
       ],
       "sources": [
@@ -3285,11 +3369,11 @@
         },
         {
           "key": "internal",
-          "n": 54
+          "n": 60
         },
         {
           "key": "referral",
-          "n": 2
+          "n": 3
         },
         {
           "key": "social",
@@ -3303,11 +3387,11 @@
       "referrers": [
         {
           "key": "exercisesfortherecoveryofchildhood.com",
-          "n": 54
+          "n": 60
         },
         {
           "key": "peternilsson.us",
-          "n": 2
+          "n": 3
         },
         {
           "key": "facebook.com",
@@ -3322,7 +3406,7 @@
       "countries": [
         {
           "key": "US",
-          "n": 89
+          "n": 96
         },
         {
           "key": "FR",
@@ -3403,6 +3487,10 @@
           "n": 51
         },
         {
+          "key": "Portland, Maine",
+          "n": 7
+        },
+        {
           "key": "Miami, Florida",
           "n": 5
         },
@@ -3469,16 +3557,12 @@
         {
           "key": "San Antonio, Texas",
           "n": 1
-        },
-        {
-          "key": "Mountain View, California",
-          "n": 1
         }
       ],
       "devices": [
         {
           "key": "desktop",
-          "n": 155
+          "n": 162
         },
         {
           "key": "mobile",
@@ -3500,7 +3584,7 @@
         },
         {
           "key": "Safari",
-          "n": 14
+          "n": 21
         },
         {
           "key": "Other",
